@@ -1,0 +1,601 @@
+{"title": "Gladiator", "budget": 103000000, "revenue": 465516248, "actors": ["Russell Crowe", "Connie Nielsen", "Richard Harris"]}
+{"title": "Final Destination", "budget": 23000000, "revenue": 112880294, "actors": ["Ali Larter", "Seann William Scott"]}
+{"title": "American Psycho", "budget": 7000000, "revenue": 34300000, "actors": ["Christian Bale", "Reese Witherspoon", "Willem Dafoe", "Guinevere Turner"]}
+{"title": "Mission: Impossible II", "budget": 125000000, "revenue": 546388108, "actors": ["Tom Cruise", "Ving Rhames", "Brendan Gleeson"]}
+{"title": "Cast Away", "budget": 90000000, "revenue": 429632142, "actors": ["Tom Hanks", "Helen Hunt"]}
+{"title": "Scary Movie", "budget": 19000000, "revenue": 278019771, "actors": ["Anna Faris", "Marlon Wayans"]}
+{"title": "Memento", "budget": 9000000, "revenue": 40047236, "actors": ["Guy Pearce"]}
+{"title": "Snatch", "budget": 10000000, "revenue": 83557872, "actors": ["Jason Statham", "Brad Pitt"]}
+{"title": "Unbreakable", "budget": 75000000, "revenue": 248118121, "actors": ["Bruce Willis", "Samuel L. Jackson", "Robin Wright"]}
+{"title": "Harry Potter and the Philosopher's Stone", "budget": 125000000, "revenue": 976475550, "actors": ["Daniel Radcliffe", "Emma Watson", "Richard Harris", "John Hurt"]}
+{"title": "The Lord of the Rings: The Fellowship of the Ring", "budget": 93000000, "revenue": 871368364, "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Liv Tyler", "Sean Bean", "Orlando Bloom", "Cate Blanchett", "Andy Serkis", "Marton Csokas"]}
+{"title": "The Mummy Returns", "budget": 98000000, "revenue": 443280904, "actors": ["Rachel Weisz", "Dwayne Johnson"]}
+{"title": "Pearl Harbor", "budget": 140000000, "revenue": 449220945, "actors": ["Ben Affleck", "Kate Beckinsale", "Josh Hartnett", "Jon Voight", "Alec Baldwin", "William Fichtner", "Noriaki Kamata", "Daniel Mays"]}
+{"title": "Rush Hour 2", "budget": 90000000, "revenue": 347325802, "actors": ["Jackie Chan", "Roselyn S\u00e1nchez", "Zhang Ziyi", "Maggie Q", "Jeremy Piven"]}
+{"title": "Ocean's Eleven", "budget": 85000000, "revenue": 450717150, "actors": ["Brad Pitt", "Andy Garc\u00eda", "Matt Damon"]}
+{"title": "Black Hawk Down", "budget": 92000000, "revenue": 172989651, "actors": ["Josh Hartnett", "Eric Bana", "Ewan McGregor", "William Fichtner", "Jason Isaacs", "Orlando Bloom", "Tom Hardy", "Nikolaj Coster-Waldau", "Jeremy Piven", "Ian Virgo"]}
+{"title": "Lara Croft: Tomb Raider", "budget": 115000000, "revenue": 274703340, "actors": ["Angelina Jolie", "Daniel Craig", "Jon Voight"]}
+{"title": "The Princess Diaries", "budget": 37000000, "revenue": 165335153, "actors": ["Anne Hathaway"]}
+{"title": "xXx", "budget": 70000000, "revenue": 277448382, "actors": ["Vin Diesel", "Asia Argento", "Marton Csokas", "Samuel L. Jackson", "Paul Landers"]}
+{"title": "Harry Potter and the Chamber of Secrets", "budget": 100000000, "revenue": 876688482, "actors": ["Daniel Radcliffe", "Emma Watson", "Kenneth Branagh", "Richard Harris", "Jason Isaacs"]}
+{"title": "Spider-Man", "budget": 139000000, "revenue": 821708551, "actors": ["Tobey Maguire", "Willem Dafoe", "James Franco", "J.K. Simmons", "Elizabeth Banks", "Robert Kerman"]}
+{"title": "The Lord of the Rings: The Two Towers", "budget": 79000000, "revenue": 926287400, "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Andy Serkis", "Cate Blanchett", "Liv Tyler", "Karl Urban"]}
+{"title": "28 Days Later", "budget": 8000000, "revenue": 85032676, "actors": ["Cillian Murphy", "Brendan Gleeson"]}
+{"title": "Catch Me If You Can", "budget": 52000000, "revenue": 352114312, "actors": ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken", "Amy Adams", "Elizabeth Banks"]}
+{"title": "8 Mile", "budget": 41000000, "revenue": 242875078, "actors": ["Brittany Murphy", "Anthony Mackie"]}
+{"title": "The Bourne Identity", "budget": 60000000, "revenue": 214034224, "actors": ["Matt Damon", "Clive Owen", "Julia Stiles", "Walton Goggins"]}
+{"title": "Irreversible", "budget": 3500000, "revenue": 6500000, "actors": ["Monica Bellucci", "Vincent Cassel"]}
+{"title": "The Pianist", "budget": 35000000, "revenue": 120098945, "actors": ["Adrien Brody"]}
+{"title": "Pirates of the Caribbean: The Curse of the Black Pearl", "budget": 140000000, "revenue": 655011224, "actors": ["Johnny Depp", "Geoffrey Rush", "Keira Knightley", "Jonathan Pryce", "Zoe Salda\u00f1a"]}
+{"title": "The Lord of the Rings: The Return of the King", "budget": 94000000, "revenue": 1118888979, "actors": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen", "Andy Serkis", "Orlando Bloom", "Liv Tyler", "Cate Blanchett", "Karl Urban", "Sean Bean", "Marton Csokas"]}
+{"title": "Freaky Friday", "budget": 26000000, "revenue": 160846332, "actors": ["Jamie Lee Curtis", "Chad Michael Murray", "Mark Harmon"]}
+{"title": "The Matrix Reloaded", "budget": 150000000, "revenue": 738599701, "actors": ["Keanu Reeves", "Laurence Fishburne", "Monica Bellucci", "Essie Davis"]}
+{"title": "Kill Bill: Vol. 1", "budget": 30000000, "revenue": 180906076, "actors": ["Uma Thurman", "Lucy Liu", "Daryl Hannah"]}
+{"title": "Mystic River", "budget": 25000000, "revenue": 156800000, "actors": ["Kevin Bacon", "Laurence Fishburne", "Emmy Rossum"]}
+{"title": "Final Destination 2", "budget": 26000000, "revenue": 90941129, "actors": ["Ali Larter"]}
+{"title": "Bruce Almighty", "budget": 80000000, "revenue": 484592874, "actors": ["Jim Carrey", "Morgan Freeman", "Steve Carell", "Annie Wersching"]}
+{"title": "The Matrix Revolutions", "budget": 150000000, "revenue": 424988211, "actors": ["Keanu Reeves", "Laurence Fishburne", "Monica Bellucci", "Essie Davis"]}
+{"title": "Bad Boys II", "budget": 130000000, "revenue": 273339556, "actors": ["Martin Lawrence", "Will Smith", "Peter Stormare"]}
+{"title": "Wrong Turn", "budget": 12600000, "revenue": 28650575, "actors": ["Desmond Harrington"]}
+{"title": "Harry Potter and the Prisoner of Azkaban", "budget": 130000000, "revenue": 789804554, "actors": ["Daniel Radcliffe", "Emma Watson", "Gary Oldman", "David Thewlis", "Emma Thompson"]}
+{"title": "Troy", "budget": 175000000, "revenue": 497409852, "actors": ["Brad Pitt", "Orlando Bloom", "Eric Bana", "Sean Bean", "Brendan Gleeson", "Rose Byrne", "James Cosmo"]}
+{"title": "The Notebook", "budget": 29000000, "revenue": 115600000, "actors": ["Ryan Gosling", "Rachel McAdams", "James Marsden"]}
+{"title": "Mean Girls", "budget": 17000000, "revenue": 130193514, "actors": ["Rachel McAdams", "Amanda Seyfried"]}
+{"title": "White Chicks", "budget": 37000000, "revenue": 113100000, "actors": ["Marlon Wayans", "Jennifer Carpenter", "Maitland Ward", "Anne Dudek"]}
+{"title": "Eternal Sunshine of the Spotless Mind", "budget": 20000000, "revenue": 72258126, "actors": ["Jim Carrey", "Kate Winslet", "Mark Ruffalo", "Elijah Wood"]}
+{"title": "Collateral", "budget": 65000000, "revenue": 220239925, "actors": ["Tom Cruise", "Mark Ruffalo", "Javier Bardem", "Richard T. Jones", "Jason Statham"]}
+{"title": "The Girl Next Door", "budget": 21000000, "revenue": 31635150, "actors": ["Emile Hirsch", "Elisha Cuthbert", "Timothy Olyphant", "Paul Dano", "James Remar"]}
+{"title": "Saw", "budget": 1200000, "revenue": 104045735, "actors": ["Dina Meyer"]}
+{"title": "The Terminal", "budget": 60000000, "revenue": 219417255, "actors": ["Tom Hanks", "Catherine Zeta-Jones", "Stanley Tucci", "Diego Luna", "Zoe Salda\u00f1a"]}
+{"title": "Van Helsing", "budget": 160000000, "revenue": 300257475, "actors": ["Hugh Jackman", "Kate Beckinsale", "Elena Anaya"]}
+{"title": "The Passion of the Christ", "budget": 30000000, "revenue": 610063468, "actors": ["Jim Caviezel", "Monica Bellucci", "Francesco De Rosa"]}
+{"title": "Bewitched", "budget": 85000000, "revenue": 131426169, "actors": ["Nicole Kidman", "Michael Caine", "Steve Carell", "Molly Gordon"]}
+{"title": "Yours, Mine & Ours", "budget": 45000000, "revenue": 72028752, "actors": ["Dennis Quaid"]}
+{"title": "Harry Potter and the Goblet of Fire", "budget": 150000000, "revenue": 895921036, "actors": ["Daniel Radcliffe", "Emma Watson", "Brendan Gleeson", "Robert Pattinson", "Ralph Fiennes", "David Tennant", "Cl\u00e9mence Po\u00e9sy", "Frances de la Tour", "Gary Oldman", "Jason Isaacs", "Henry Lloyd-Hughes"]}
+{"title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", "budget": 180000000, "revenue": 745013115, "actors": ["Liam Neeson", "Tilda Swinton", "James McAvoy", "James Cosmo"]}
+{"title": "Fantastic Four", "budget": 100000000, "revenue": 333535934, "actors": ["Jessica Alba", "Chris Evans"]}
+{"title": "Charlie and the Chocolate Factory", "budget": 150000000, "revenue": 475000000, "actors": ["Johnny Depp", "Freddie Highmore", "Helena Bonham Carter", "Philip Wiegratz"]}
+{"title": "Batman Begins", "budget": 150000000, "revenue": 374218673, "actors": ["Christian Bale", "Michael Caine", "Liam Neeson", "Katie Holmes", "Gary Oldman", "Cillian Murphy", "Ken Watanabe", "Morgan Freeman"]}
+{"title": "Constantine", "budget": 100000000, "revenue": 230900000, "actors": ["Keanu Reeves", "Rachel Weisz", "Shia LaBeouf", "Tilda Swinton", "Peter Stormare"]}
+{"title": "Pride & Prejudice", "budget": 28000000, "revenue": 124604345, "actors": ["Keira Knightley", "Rosamund Pike", "Jena Malone", "Donald Sutherland", "Rupert Friend", "Kelly Reilly"]}
+{"title": "Mr. & Mrs. Smith", "budget": 110000000, "revenue": 487287646, "actors": ["Brad Pitt", "Angelina Jolie", "Adam Brody", "Michelle Monaghan", "Jennifer Morrison"]}
+{"title": "King Kong", "budget": 207000000, "revenue": 562363449, "actors": ["Naomi Watts", "Adrien Brody", "Jack Black", "Andy Serkis", "Laura Surrich"]}
+{"title": "War of the Worlds", "budget": 132000000, "revenue": 603873119, "actors": ["Tom Cruise", "Dakota Fanning", "Morgan Freeman"]}
+{"title": "Kingdom of Heaven", "budget": 130000000, "revenue": 218366336, "actors": ["Eva Green", "Jeremy Irons", "David Thewlis", "Liam Neeson", "Brendan Gleeson", "Marton Csokas", "Nikolaj Coster-Waldau", "Iain Glen"]}
+{"title": "Pirates of the Caribbean: Dead Man's Chest", "budget": 200000000, "revenue": 1066179747, "actors": ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Stellan Skarsg\u00e5rd", "Bill Nighy", "Jonathan Pryce", "Geoffrey Rush"]}
+{"title": "The Devil Wears Prada", "budget": 35000000, "revenue": 326706115, "actors": ["Anne Hathaway", "Emily Blunt", "Stanley Tucci", "Simon Baker"]}
+{"title": "The Prestige", "budget": 40000000, "revenue": 109676311, "actors": ["Hugh Jackman", "Christian Bale", "Michael Caine", "Piper Perabo", "Scarlett Johansson", "Andy Serkis"]}
+{"title": "Mission: Impossible III", "budget": 150000000, "revenue": 398479497, "actors": ["Tom Cruise", "Philip Seymour Hoffman", "Ving Rhames", "Michelle Monaghan", "Jonathan Rhys Meyers", "Maggie Q", "Simon Pegg", "Laurence Fishburne", "Sasha Alexander", "Aaron Paul"]}
+{"title": "The Departed", "budget": 90000000, "revenue": 291465000, "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson", "Mark Wahlberg", "Vera Farmiga"]}
+{"title": "V for Vendetta", "budget": 54000000, "revenue": 134686457, "actors": ["Natalie Portman", "John Hurt", "Imogen Poots"]}
+{"title": "Final Destination 3", "budget": 25000000, "revenue": 118890272, "actors": ["Mary Elizabeth Winstead"]}
+{"title": "Night at the Museum", "budget": 110000000, "revenue": 574480841, "actors": ["Ben Stiller", "Carla Gugino", "Robin Williams", "Rami Malek", "Paul Rudd"]}
+{"title": "Click", "budget": 82500000, "revenue": 240685326, "actors": ["Adam Sandler", "Kate Beckinsale", "Christopher Walken", "Cameron Monaghan", "Jennifer Coolidge"]}
+{"title": "Blood Diamond", "budget": 100000000, "revenue": 171700000, "actors": ["Leonardo DiCaprio", "Jennifer Connelly"]}
+{"title": "Inside Man", "budget": 45000000, "revenue": 186003591, "actors": ["Denzel Washington", "Clive Owen", "Jodie Foster", "Christopher Plummer", "Willem Dafoe", "Victor Colicchio"]}
+{"title": "The Da Vinci Code", "budget": 125000000, "revenue": 760006945, "actors": ["Tom Hanks", "Audrey Tautou", "Ian McKellen", "Jean Reno", "Paul Bettany"]}
+{"title": "The Pursuit of Happyness", "budget": 55000000, "revenue": 307077295, "actors": ["Will Smith", "David Fine"]}
+{"title": "Casino Royale", "budget": 150000000, "revenue": 599045960, "actors": ["Daniel Craig", "Eva Green", "Mads Mikkelsen"]}
+{"title": "The Sentinel", "budget": 60000000, "revenue": 78810595, "actors": ["Michael Douglas", "Kiefer Sutherland"]}
+{"title": "Harry Potter and the Order of the Phoenix", "budget": 150000000, "revenue": 938212738, "actors": ["Daniel Radcliffe", "Emma Watson", "Helena Bonham Carter", "Gary Oldman", "Ralph Fiennes", "Brendan Gleeson", "Jason Isaacs", "David Thewlis", "Emma Thompson"]}
+{"title": "Spider-Man 3", "budget": 258000000, "revenue": 894983373, "actors": ["Tobey Maguire", "James Franco", "Topher Grace", "Bryce Dallas Howard", "J.K. Simmons", "Elizabeth Banks", "Willem Dafoe"]}
+{"title": "Pirates of the Caribbean: At World's End", "budget": 300000000, "revenue": 961691209, "actors": ["Johnny Depp", "Geoffrey Rush", "Keira Knightley", "Bill Nighy", "Jonathan Pryce", "Winston Ellis"]}
+{"title": "Fantastic Four: Rise of the Silver Surfer", "budget": 130000000, "revenue": 301913131, "actors": ["Jessica Alba", "Chris Evans", "Laurence Fishburne"]}
+{"title": "No Country for Old Men", "budget": 25000000, "revenue": 171627166, "actors": ["Javier Bardem", "Tommy Lee Jones", "Josh Brolin", "Woody Harrelson", "Kelly Macdonald"]}
+{"title": "28 Weeks Later", "budget": 15000000, "revenue": 65048725, "actors": ["Imogen Poots", "Rose Byrne", "Jeremy Renner", "Idris Elba"]}
+{"title": "I Am Legend", "budget": 150000000, "revenue": 585410052, "actors": ["Will Smith", "Emma Thompson"]}
+{"title": "Shooter", "budget": 61000000, "revenue": 95700000, "actors": ["Mark Wahlberg", "Kate Mara", "Rhona Mitra"]}
+{"title": "There Will Be Blood", "budget": 25000000, "revenue": 77208711, "actors": ["Paul Dano"]}
+{"title": "Bridge to Terabithia", "budget": 60000000, "revenue": 137587063, "actors": ["Josh Hutcherson", "Robert Patrick"]}
+{"title": "300", "budget": 65000000, "revenue": 456082343, "actors": ["Gerard Butler", "Lena Headey", "Michael Fassbender"]}
+{"title": "Atonement", "budget": 30000000, "revenue": 131016624, "actors": ["James McAvoy", "Keira Knightley", "Saoirse Ronan", "Juno Temple", "Benedict Cumberbatch", "Daniel Mays"]}
+{"title": "Superbad", "budget": 20000000, "revenue": 170800000, "actors": ["Emma Stone", "Dave Franco", "Jenna Haze"]}
+{"title": "Zodiac", "budget": 65000000, "revenue": 84785914, "actors": ["Jake Gyllenhaal", "Mark Ruffalo", "Robert Downey Jr.", "Dermot Mulroney"]}
+{"title": "Norbit", "budget": 10000000, "revenue": 159814490, "actors": ["Eddie Murphy", "Marlon Wayans"]}
+{"title": "The Dark Knight", "budget": 185000000, "revenue": 1004558444, "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine", "Gary Oldman", "Morgan Freeman", "Cillian Murphy", "Eric Roberts", "Michael Jai White", "William Fichtner", "Edison Chen"]}
+{"title": "Twilight", "budget": 37000000, "revenue": 393616788, "actors": ["Kristen Stewart", "Robert Pattinson", "Edi Gathegi", "Anna Kendrick"]}
+{"title": "Iron Man", "budget": 140000000, "revenue": 585174222, "actors": ["Robert Downey Jr.", "Jeff Bridges", "Gwyneth Paltrow", "Paul Bettany", "Jon Favreau"]}
+{"title": "New York, I Love You", "budget": 14700000, "revenue": 14600000, "actors": ["Natalie Portman", "Hayden Christensen", "Ethan Hawke", "Shia LaBeouf", "Andy Garc\u00eda", "Orlando Bloom", "Robin Wright", "Maggie Q", "Christina Ricci", "Rachel Bilson", "James Caan", "Blake Lively", "John Hurt"]}
+{"title": "Taken", "budget": 25000000, "revenue": 226830568, "actors": ["Liam Neeson", "Famke Janssen"]}
+{"title": "The Incredible Hulk", "budget": 150000000, "revenue": 264770996, "actors": ["Edward Norton", "Liv Tyler", "Tim Roth"]}
+{"title": "Rambo", "budget": 50000000, "revenue": 113200000, "actors": ["Sylvester Stallone", "Julie Benz"]}
+{"title": "The Curious Case of Benjamin Button", "budget": 150000000, "revenue": 335802786, "actors": ["Brad Pitt", "Cate Blanchett", "Tilda Swinton", "Jared Harris", "Elle Fanning"]}
+{"title": "Death Race", "budget": 45000000, "revenue": 76000000, "actors": ["Jason Statham", "Ian McShane"]}
+{"title": "Tropic Thunder", "budget": 92000000, "revenue": 195702811, "actors": ["Ben Stiller", "Robert Downey Jr.", "Jack Black", "Matthew McConaughey", "Tom Cruise", "Tobey Maguire", "Jon Voight", "Jennifer Love Hewitt", "Alicia Silverstone", "Jason Bateman"]}
+{"title": "Mamma Mia!", "budget": 52000000, "revenue": 609841637, "actors": ["Amanda Seyfried", "Pierce Brosnan", "Colin Firth"]}
+{"title": "The Boy in the Striped Pyjamas", "budget": 12500000, "revenue": 20416563, "actors": ["Asa Butterfield", "Vera Farmiga", "David Thewlis", "Rupert Friend"]}
+{"title": "Bedtime Stories", "budget": 80000000, "revenue": 212874864, "actors": ["Adam Sandler", "Guy Pearce", "Jonathan Pryce", "Jackie Sandler"]}
+{"title": "Quantum of Solace", "budget": 200000000, "revenue": 589593688, "actors": ["Daniel Craig", "Olga Kurylenko", "Gemma Arterton", "Stana Katic"]}
+{"title": "Wanted", "budget": 75000000, "revenue": 342463063, "actors": ["James McAvoy", "Angelina Jolie", "Morgan Freeman", "Terence Stamp", "Chris Pratt"]}
+{"title": "Jumper", "budget": 85000000, "revenue": 222231186, "actors": ["Hayden Christensen", "Samuel L. Jackson", "Rachel Bilson", "Michael Rooker", "Diane Lane", "Kristen Stewart"]}
+{"title": "Avatar", "budget": 237000000, "revenue": 2923706026, "actors": ["Sam Worthington", "Zoe Salda\u00f1a", "Sigourney Weaver", "Stephen Lang", "Giovanni Ribisi"]}
+{"title": "Harry Potter and the Half-Blood Prince", "budget": 250000000, "revenue": 933959197, "actors": ["Daniel Radcliffe", "Emma Watson", "Freddie Stroma", "Helena Bonham Carter", "David Thewlis", "Ralph Ineson"]}
+{"title": "Inglourious Basterds", "budget": 70000000, "revenue": 321457747, "actors": ["Brad Pitt", "Christoph Waltz", "Michael Fassbender"]}
+{"title": "The Hangover", "budget": 35000000, "revenue": 469310836, "actors": ["Zach Galifianakis"]}
+{"title": "The Twilight Saga: New Moon", "budget": 50000000, "revenue": 709827462, "actors": ["Kristen Stewart", "Robert Pattinson", "Dakota Fanning", "Edi Gathegi", "Graham Greene", "Anna Kendrick"]}
+{"title": "2012", "budget": 200000000, "revenue": 791217826, "actors": ["Amanda Peet", "Woody Harrelson"]}
+{"title": "Angels & Demons", "budget": 150000000, "revenue": 485930816, "actors": ["Tom Hanks", "Ewan McGregor", "Alfred Molina"]}
+{"title": "Watchmen", "budget": 130000000, "revenue": 185258983, "actors": ["Malin \u00c5kerman", "Patrick Wilson", "Matthew Goode", "Jeffrey Dean Morgan", "Carla Gugino", "Alison Araya"]}
+{"title": "The Blind Side", "budget": 29000000, "revenue": 309231694, "actors": ["Sandra Bullock"]}
+{"title": "G.I. Joe: The Rise of Cobra", "budget": 175000000, "revenue": 302500000, "actors": ["Lee Byung-hun", "Joseph Gordon-Levitt", "Jonathan Pryce", "Channing Tatum", "Marlon Wayans", "Dennis Quaid"]}
+{"title": "Zombieland", "budget": 23600000, "revenue": 102391540, "actors": ["Woody Harrelson", "Emma Stone", "Abigail Breslin", "Amber Heard"]}
+{"title": "Star Trek", "budget": 150000000, "revenue": 386839614, "actors": ["Chris Pine", "Eric Bana", "Bruce Greenwood", "Karl Urban", "Zoe Salda\u00f1a", "Simon Pegg", "Winona Ryder", "Chris Hemsworth", "Jennifer Morrison"]}
+{"title": "The Proposal", "budget": 40000000, "revenue": 317400000, "actors": ["Sandra Bullock", "Ryan Reynolds", "Malin \u00c5kerman"]}
+{"title": "(500) Days of Summer", "budget": 7500000, "revenue": 60781545, "actors": ["Joseph Gordon-Levitt", "Chlo\u00eb Grace Moretz"]}
+{"title": "Sherlock Holmes", "budget": 90000000, "revenue": 524028679, "actors": ["Robert Downey Jr.", "Jude Law", "Rachel McAdams", "Mark Strong", "Kelly Reilly"]}
+{"title": "Night at the Museum: Battle of the Smithsonian", "budget": 150000000, "revenue": 413106170, "actors": ["Ben Stiller", "Amy Adams", "Owen Wilson", "Robin Williams", "Jon Bernthal", "Rami Malek", "Eugene Levy"]}
+{"title": "Orphan", "budget": 20000000, "revenue": 77912251, "actors": ["Vera Farmiga"]}
+{"title": "Inception", "budget": 160000000, "revenue": 839030630, "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ken Watanabe", "Tom Hardy", "Cillian Murphy", "Marion Cotillard", "Michael Caine"]}
+{"title": "Harry Potter and the Deathly Hallows: Part 1", "budget": 250000000, "revenue": 954305868, "actors": ["Daniel Radcliffe", "Emma Watson", "Helena Bonham Carter", "Ralph Fiennes", "Bill Nighy", "Jason Isaacs", "Brendan Gleeson", "John Hurt", "David Thewlis", "Cl\u00e9mence Po\u00e9sy", "Domhnall Gleeson", "Frances de la Tour", "Freddie Stroma"]}
+{"title": "Iron Man 2", "budget": 200000000, "revenue": 623933331, "actors": ["Robert Downey Jr.", "Scarlett Johansson", "Sam Rockwell", "Mickey Rourke", "Samuel L. Jackson", "Paul Bettany", "Kate Mara", "Jon Favreau"]}
+{"title": "Shutter Island", "budget": 80000000, "revenue": 294804195, "actors": ["Leonardo DiCaprio", "Mark Ruffalo", "Ben Kingsley", "Ted Levine"]}
+{"title": "The Twilight Saga: Eclipse", "budget": 68000000, "revenue": 698491347, "actors": ["Kristen Stewart", "Robert Pattinson", "Bryce Dallas Howard", "Dakota Fanning", "Anna Kendrick"]}
+{"title": "Grown Ups", "budget": 80000000, "revenue": 271430189, "actors": ["Adam Sandler", "Kevin James", "Maria Bello", "Steve Buscemi", "Jackie Sandler", "Sunny Sandler"]}
+{"title": "Percy Jackson & the Olympians: The Lightning Thief", "budget": 95000000, "revenue": 226497209, "actors": ["Logan Lerman", "Alexandra Daddario", "Pierce Brosnan", "Sean Bean", "Rosario Dawson", "Uma Thurman", "Maya Washington", "Richard Harmon"]}
+{"title": "Alice in Wonderland", "budget": 200000000, "revenue": 1025467110, "actors": ["Johnny Depp", "Anne Hathaway", "Helena Bonham Carter", "Marton Csokas", "Frances de la Tour", "Frank Welker"]}
+{"title": "Love & Other Drugs", "budget": 30000000, "revenue": 102800000, "actors": ["Jake Gyllenhaal", "Anne Hathaway", "Judy Greer", "Katheryn Winnick"]}
+{"title": "TRON: Legacy", "budget": 170000000, "revenue": 409912892, "actors": ["Jeff Bridges"]}
+{"title": "Predators", "budget": 40000000, "revenue": 127200000, "actors": ["Adrien Brody", "Topher Grace", "Laurence Fishburne", "Walton Goggins", "Mahershala Ali"]}
+{"title": "The Karate Kid", "budget": 40000000, "revenue": 359126022, "actors": ["Jackie Chan", "Yu Rongguang"]}
+{"title": "Black Swan", "budget": 13000000, "revenue": 329398046, "actors": ["Natalie Portman", "Mila Kunis", "Vincent Cassel", "Winona Ryder", "Sebastian Stan"]}
+{"title": "The Expendables", "budget": 80000000, "revenue": 274470394, "actors": ["Sylvester Stallone", "Jason Statham", "Jet Li", "Dolph Lundgren", "Eric Roberts", "David Zayas", "Mickey Rourke"]}
+{"title": "The Town", "budget": 37000000, "revenue": 154026136, "actors": ["Ben Affleck", "Jeremy Renner", "Jon Hamm", "Blake Lively", "Titus Welliver"]}
+{"title": "Undisputed III: Redemption", "budget": 3000000, "revenue": 282548, "actors": ["Scott Adkins"]}
+{"title": "Clash of the Titans", "budget": 125000000, "revenue": 493214993, "actors": ["Sam Worthington", "Gemma Arterton", "Mads Mikkelsen", "Ralph Fiennes", "Liam Neeson", "Elizabeth McGovern", "Nicholas Hoult", "Liam Cunningham", "Kaya Scodelario", "Danny Huston"]}
+{"title": "Robin Hood", "budget": 200000000, "revenue": 321669741, "actors": ["Russell Crowe", "Cate Blanchett", "Mark Strong", "Oscar Isaac", "Danny Huston", "Kevin Durand", "Ralph Ineson"]}
+{"title": "Harry Potter and the Deathly Hallows: Part 2", "budget": 125000000, "revenue": 1341511219, "actors": ["Daniel Radcliffe", "Emma Watson", "Ralph Fiennes", "Helena Bonham Carter", "John Hurt", "Kelly Macdonald", "Jason Isaacs", "David Thewlis", "Gary Oldman", "Cl\u00e9mence Po\u00e9sy", "Domhnall Gleeson", "Freddie Stroma", "Emma Thompson"]}
+{"title": "Mission: Impossible - Ghost Protocol", "budget": 145000000, "revenue": 694713380, "actors": ["Tom Cruise", "Simon Pegg", "Jeremy Renner", "Ving Rhames"]}
+{"title": "Pirates of the Caribbean: On Stranger Tides", "budget": 379000000, "revenue": 1046721266, "actors": ["Johnny Depp", "Geoffrey Rush", "Ian McShane", "Sam Claflin"]}
+{"title": "Margin Call", "budget": 3500000, "revenue": 19504039, "actors": ["Paul Bettany", "Jeremy Irons", "Simon Baker", "Demi Moore", "Stanley Tucci", "Mary McDonnell"]}
+{"title": "Real Steel", "budget": 110000000, "revenue": 299300000, "actors": ["Hugh Jackman", "Evangeline Lilly", "Kevin Durand", "Anthony Mackie"]}
+{"title": "The Hangover Part II", "budget": 80000000, "revenue": 586764305, "actors": ["Bradley Cooper", "Zach Galifianakis", "Paul Giamatti", "Yasmin Lee"]}
+{"title": "The Twilight Saga: Breaking Dawn - Part 1", "budget": 110000000, "revenue": 712171856, "actors": ["Kristen Stewart", "Robert Pattinson", "Anna Kendrick", "MyAnna Buring"]}
+{"title": "Thor", "budget": 150000000, "revenue": 449326618, "actors": ["Chris Hemsworth", "Natalie Portman", "Anthony Hopkins", "Stellan Skarsg\u00e5rd", "Kat Dennings", "Idris Elba", "Ray Stevenson", "Jaimie Alexander"]}
+{"title": "The Help", "budget": 25000000, "revenue": 216600000, "actors": ["Emma Stone", "Bryce Dallas Howard", "Jessica Chastain", "Allison Janney", "Ashley Johnson"]}
+{"title": "I Am Number Four", "budget": 50000000, "revenue": 149900000, "actors": ["Timothy Olyphant", "Kevin Durand"]}
+{"title": "Limitless", "budget": 27000000, "revenue": 161900000, "actors": ["Bradley Cooper", "Robert De Niro"]}
+{"title": "Just Go with It", "budget": 80000000, "revenue": 214945591, "actors": ["Adam Sandler", "Nicole Kidman", "Jackie Sandler", "Sunny Sandler"]}
+{"title": "Sherlock Holmes: A Game of Shadows", "budget": 125000000, "revenue": 334615000, "actors": ["Robert Downey Jr.", "Jude Law", "Noomi Rapace", "Jared Harris", "Rachel McAdams", "Kelly Reilly"]}
+{"title": "In Time", "budget": 40000000, "revenue": 173900000, "actors": ["Amanda Seyfried", "Cillian Murphy"]}
+{"title": "Captain America: The First Avenger", "budget": 140000000, "revenue": 370569774, "actors": ["Chris Evans", "Hayley Atwell", "Sebastian Stan", "Tommy Lee Jones", "Stanley Tucci", "Samuel L. Jackson", "Neal McDonough", "Natalie Dormer", "Jenna Coleman"]}
+{"title": "Colombiana", "budget": 40000000, "revenue": 71508440, "actors": ["Zoe Salda\u00f1a"]}
+{"title": "The Skin I Live In", "budget": 13000000, "revenue": 33750478, "actors": ["Antonio Banderas", "Elena Anaya"]}
+{"title": "Green Lantern", "budget": 200000000, "revenue": 219851172, "actors": ["Ryan Reynolds", "Blake Lively", "Mark Strong", "Geoffrey Rush", "Clancy Brown"]}
+{"title": "Drive", "budget": 15000000, "revenue": 78100000, "actors": ["Ryan Gosling", "Bryan Cranston", "Oscar Isaac", "Christina Hendricks", "Ron Perlman", "Andy San Dimas"]}
+{"title": "The Avengers", "budget": 220000000, "revenue": 1518815515, "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Tom Hiddleston", "Cobie Smulders", "Samuel L. Jackson", "Gwyneth Paltrow", "Paul Bettany", "Ashley Johnson"]}
+{"title": "The Amazing Spider-Man", "budget": 215000000, "revenue": 757930663, "actors": ["Andrew Garfield", "Emma Stone", "Kelsey Asbille", "Skyler Gisondo"]}
+{"title": "The Dark Knight Rises", "budget": 250000000, "revenue": 1081041287, "actors": ["Christian Bale", "Gary Oldman", "Tom Hardy", "Joseph Gordon-Levitt", "Anne Hathaway", "Marion Cotillard", "Morgan Freeman", "Michael Caine", "Juno Temple", "Glen Powell", "Joey King", "Liam Neeson", "Cillian Murphy", "Desmond Harrington"]}
+{"title": "The Twilight Saga: Breaking Dawn - Part 2", "budget": 120000000, "revenue": 829747654, "actors": ["Kristen Stewart", "Robert Pattinson", "Dakota Fanning", "MyAnna Buring", "Lee Pace", "Rami Malek", "Wendell Pierce"]}
+{"title": "The Hobbit: An Unexpected Journey", "budget": 250000000, "revenue": 1021103568, "actors": ["Martin Freeman", "Ian McKellen", "Andy Serkis", "Cate Blanchett", "Lee Pace", "Elijah Wood", "Benedict Cumberbatch"]}
+{"title": "Django Unchained", "budget": 100000000, "revenue": 425368238, "actors": ["Christoph Waltz", "Leonardo DiCaprio", "Samuel L. Jackson", "Walton Goggins", "James Remar", "Craig Stark"]}
+{"title": "The Lucky One", "budget": 25000000, "revenue": 99400000, "actors": ["Zac Efron"]}
+{"title": "Ted", "budget": 50000000, "revenue": 549368315, "actors": ["Mark Wahlberg", "Mila Kunis", "Seth MacFarlane", "Giovanni Ribisi", "Tom Skerritt"]}
+{"title": "Journey 2: The Mysterious Island", "budget": 79000000, "revenue": 355692760, "actors": ["Dwayne Johnson", "Josh Hutcherson", "Luis Guzm\u00e1n", "Michael Caine"]}
+{"title": "Prometheus", "budget": 130000000, "revenue": 403354469, "actors": ["Noomi Rapace", "Michael Fassbender", "Charlize Theron", "Idris Elba", "Guy Pearce", "Benedict Wong", "Patrick Wilson"]}
+{"title": "Flight", "budget": 31000000, "revenue": 161772575, "actors": ["Denzel Washington", "Kelly Reilly", "John Goodman", "Bruce Greenwood"]}
+{"title": "Skyfall", "budget": 200000000, "revenue": 1108594176, "actors": ["Daniel Craig", "Javier Bardem", "Ralph Fiennes"]}
+{"title": "Battleship", "budget": 209000000, "revenue": 303025485, "actors": ["Taylor Kitsch", "Alexander Skarsg\u00e5rd", "Liam Neeson", "Jesse Plemons", "Rami Malek"]}
+{"title": "Pitch Perfect", "budget": 17000000, "revenue": 115647426, "actors": ["Anna Kendrick", "Brittany Snow", "Elizabeth Banks", "Freddie Stroma"]}
+{"title": "Dark Shadows", "budget": 150000000, "revenue": 245527149, "actors": ["Johnny Depp", "Michelle Pfeiffer", "Eva Green", "Helena Bonham Carter", "Chlo\u00eb Grace Moretz", "Charlotte Spencer", "Lee Nicholas Harris"]}
+{"title": "Safe", "budget": 30000000, "revenue": 40300000, "actors": ["Jason Statham"]}
+{"title": "Taken 2", "budget": 45000000, "revenue": 376100000, "actors": ["Liam Neeson", "Famke Janssen"]}
+{"title": "The Hunger Games", "budget": 75000000, "revenue": 694000000, "actors": ["Jennifer Lawrence", "Josh Hutcherson", "Woody Harrelson", "Elizabeth Banks", "Stanley Tucci", "Donald Sutherland", "Jack Quaid"]}
+{"title": "John Carter", "budget": 250000000, "revenue": 284100000, "actors": ["Taylor Kitsch", "Lynn Collins", "Mark Strong", "Willem Dafoe", "Bryan Cranston", "Jon Favreau"]}
+{"title": "Total Recall", "budget": 125000000, "revenue": 198800000, "actors": ["Colin Farrell", "Jessica Biel", "Kate Beckinsale", "Bill Nighy", "Bryan Cranston"]}
+{"title": "Jack Reacher", "budget": 60000000, "revenue": 218300000, "actors": ["Tom Cruise", "Rosamund Pike"]}
+{"title": "The Conjuring", "budget": 13000000, "revenue": 320420168, "actors": ["Patrick Wilson", "Vera Farmiga", "Joey King"]}
+{"title": "Man of Steel", "budget": 225000000, "revenue": 668045518, "actors": ["Henry Cavill", "Amy Adams", "Russell Crowe", "Kevin Costner", "Laurence Fishburne", "Diane Lane", "Antje Traue", "Carla Gugino"]}
+{"title": "Prisoners", "budget": 46000000, "revenue": 122126687, "actors": ["Hugh Jackman", "Jake Gyllenhaal", "Maria Bello", "Paul Dano", "David Dastmalchian"]}
+{"title": "The Wolf of Wall Street", "budget": 100000000, "revenue": 407038432, "actors": ["Leonardo DiCaprio", "Margot Robbie", "Matthew McConaughey", "Jon Bernthal", "Jon Favreau", "Cristin Milioti", "Shea Whigham"]}
+{"title": "Homefront", "budget": 22000000, "revenue": 51695362, "actors": ["Jason Statham", "James Franco", "Winona Ryder", "Clancy Brown", "Frank Grillo", "Craig Stark"]}
+{"title": "Iron Man 3", "budget": 200000000, "revenue": 1215577205, "actors": ["Robert Downey Jr.", "Gwyneth Paltrow", "Guy Pearce", "Jon Favreau", "Ben Kingsley", "Paul Bettany", "Jenna Ortega"]}
+{"title": "World War Z", "budget": 200000000, "revenue": 531865000, "actors": ["Brad Pitt", "Lee Nicholas Harris"]}
+{"title": "Pacific Rim", "budget": 180000000, "revenue": 411000000, "actors": ["Charlie Hunnam", "Idris Elba", "Ron Perlman"]}
+{"title": "Thor: The Dark World", "budget": 170000000, "revenue": 644783140, "actors": ["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins", "Jaimie Alexander", "Ray Stevenson", "Idris Elba", "Kat Dennings", "Alice Krige"]}
+{"title": "The Hunger Games: Catching Fire", "budget": 130000000, "revenue": 865011746, "actors": ["Jennifer Lawrence", "Josh Hutcherson", "Woody Harrelson", "Elizabeth Banks", "Donald Sutherland", "Philip Seymour Hoffman", "Stanley Tucci", "Sam Claflin", "Jena Malone", "Jack Quaid", "Alan Ritchson"]}
+{"title": "Rush", "budget": 38000000, "revenue": 90200000, "actors": ["Chris Hemsworth", "Natalie Dormer"]}
+{"title": "Grown Ups 2", "budget": 80000000, "revenue": 247022278, "actors": ["Adam Sandler", "Kevin James", "Maria Bello", "Steve Buscemi", "Alexander Ludwig", "Jackie Sandler", "Sunny Sandler", "Andy Samberg"]}
+{"title": "Oblivion", "budget": 120000000, "revenue": 286168572, "actors": ["Tom Cruise", "Morgan Freeman", "Olga Kurylenko", "Nikolaj Coster-Waldau"]}
+{"title": "Nymphomaniac: Vol. II", "budget": 2350000, "revenue": 4934725, "actors": ["Shia LaBeouf", "Willem Dafoe", "Mia Goth", "Christian Slater", "Uma Thurman", "Conny Dachs"]}
+{"title": "The Hobbit: The Desolation of Smaug", "budget": 250000000, "revenue": 958400000, "actors": ["Ian McKellen", "Martin Freeman", "Benedict Cumberbatch", "Orlando Bloom", "Evangeline Lilly", "Lee Pace", "Cate Blanchett"]}
+{"title": "Snowpiercer", "budget": 39200000, "revenue": 86758912, "actors": ["Chris Evans", "Ed Harris", "John Hurt", "Tilda Swinton"]}
+{"title": "The Hangover Part III", "budget": 103000000, "revenue": 362000072, "actors": ["Bradley Cooper", "Zach Galifianakis", "John Goodman", "Heather Graham"]}
+{"title": "About Time", "budget": 12000000, "revenue": 87100449, "actors": ["Domhnall Gleeson", "Rachel McAdams", "Bill Nighy", "Margot Robbie", "Vanessa Kirby", "Clemmie Dugdale"]}
+{"title": "Her", "budget": 23000000, "revenue": 47351251, "actors": ["Scarlett Johansson", "Chris Pratt", "Amy Adams"]}
+{"title": "Now You See Me", "budget": 75000000, "revenue": 351723989, "actors": ["Mark Ruffalo", "Woody Harrelson", "Isla Fisher", "Dave Franco", "M\u00e9lanie Laurent", "Morgan Freeman", "Michael Caine"]}
+{"title": "Elysium", "budget": 115000000, "revenue": 286140700, "actors": ["Matt Damon", "Jodie Foster", "Diego Luna", "Wagner Moura", "William Fichtner"]}
+{"title": "Texas Chainsaw 3D", "budget": 20000000, "revenue": 47300000, "actors": ["Alexandra Daddario", "Tania Raymonde"]}
+{"title": "We're the Millers", "budget": 37000000, "revenue": 270000000, "actors": ["Emma Roberts", "Will Poulter", "Luis Guzm\u00e1n"]}
+{"title": "Interstellar", "budget": 165000000, "revenue": 746606706, "actors": ["Matthew McConaughey", "Anne Hathaway", "Michael Caine", "Jessica Chastain", "Topher Grace", "John Lithgow", "Timoth\u00e9e Chalamet", "Matt Damon"]}
+{"title": "The Maze Runner", "budget": 34000000, "revenue": 348319861, "actors": ["Kaya Scodelario", "Thomas Brodie-Sangster", "Will Poulter"]}
+{"title": "Gone Girl", "budget": 61000000, "revenue": 370890259, "actors": ["Ben Affleck", "Rosamund Pike", "Carrie Coon"]}
+{"title": "The Equalizer", "budget": 55000000, "revenue": 192330738, "actors": ["Denzel Washington", "Marton Csokas", "Chlo\u00eb Grace Moretz", "Haley Bennett", "Bill Pullman"]}
+{"title": "The Hobbit: The Battle of the Five Armies", "budget": 250000000, "revenue": 956019788, "actors": ["Ian McKellen", "Martin Freeman", "Evangeline Lilly", "Lee Pace", "Benedict Cumberbatch", "Cate Blanchett"]}
+{"title": "Annabelle", "budget": 6500000, "revenue": 257589952, "actors": ["Annabelle Wallis"]}
+{"title": "The Amazing Spider-Man 2", "budget": 200000000, "revenue": 708962323, "actors": ["Andrew Garfield", "Emma Stone", "Felicity Jones", "Paul Giamatti", "Marton Csokas", "Skyler Gisondo"]}
+{"title": "Fury", "budget": 68000000, "revenue": 211817906, "actors": ["Brad Pitt", "Shia LaBeouf", "Logan Lerman", "Michael Pe\u00f1a", "Jon Bernthal", "Jason Isaacs", "Eric Kofi Abrefa"]}
+{"title": "The Hunger Games: Mockingjay - Part 1", "budget": 125000000, "revenue": 755356711, "actors": ["Jennifer Lawrence", "Josh Hutcherson", "Woody Harrelson", "Elizabeth Banks", "Julianne Moore", "Philip Seymour Hoffman", "Stanley Tucci", "Donald Sutherland", "Sam Claflin", "Jena Malone", "Natalie Dormer", "Robert Knepper"]}
+{"title": "Whiplash", "budget": 3300000, "revenue": 50307484, "actors": ["J.K. Simmons"]}
+{"title": "Exodus: Gods and Kings", "budget": 140000000, "revenue": 268031828, "actors": ["Christian Bale", "Ben Kingsley", "Aaron Paul", "Mar\u00eda Valverde", "Sigourney Weaver", "Golshifteh Farahani", "Dar Salim"]}
+{"title": "Transformers: Age of Extinction", "budget": 210000000, "revenue": 1104054072, "actors": ["Mark Wahlberg", "Stanley Tucci", "Frank Welker", "Titus Welliver", "John Goodman", "Ken Watanabe"]}
+{"title": "Teenage Mutant Ninja Turtles", "budget": 125000000, "revenue": 485004754, "actors": ["Alan Ritchson", "Megan Fox", "William Fichtner"]}
+{"title": "Maleficent", "budget": 180000000, "revenue": 758539785, "actors": ["Angelina Jolie", "Elle Fanning", "Juno Temple", "Ella Purnell"]}
+{"title": "The Imitation Game", "budget": 14000000, "revenue": 233555708, "actors": ["Benedict Cumberbatch", "Keira Knightley", "Matthew Goode", "Charles Dance", "Mark Strong"]}
+{"title": "Lucy", "budget": 40000000, "revenue": 458863600, "actors": ["Scarlett Johansson", "Morgan Freeman"]}
+{"title": "Nightcrawler", "budget": 8500000, "revenue": 47425835, "actors": ["Jake Gyllenhaal"]}
+{"title": "John Wick", "budget": 20000000, "revenue": 88761661, "actors": ["Keanu Reeves", "Willem Dafoe", "Ian McShane", "Bridget Regan"]}
+{"title": "Divergent", "budget": 85000000, "revenue": 288885818, "actors": ["Shailene Woodley", "Theo James", "Ashley Judd", "Ray Stevenson", "Kate Winslet", "Maggie Q"]}
+{"title": "X-Men: Days of Future Past", "budget": 250000000, "revenue": 747862775, "actors": ["Hugh Jackman", "James McAvoy", "Michael Fassbender", "Ian McKellen", "Jennifer Lawrence", "Halle Berry", "Nicholas Hoult", "Peter Dinklage", "Shawn Ashmore", "Evan Peters", "Fan Bingbing", "Famke Janssen", "James Marsden", "Lucas Till"]}
+{"title": "Taken 3", "budget": 48000000, "revenue": 325800000, "actors": ["Liam Neeson", "Famke Janssen"]}
+{"title": "Edge of Tomorrow", "budget": 178000000, "revenue": 370541256, "actors": ["Tom Cruise", "Emily Blunt", "Brendan Gleeson", "Terence Maynard"]}
+{"title": "Birdman or (The Unexpected Virtue of Ignorance)", "budget": 18000000, "revenue": 103215094, "actors": ["Michael Keaton", "Emma Stone", "Zach Galifianakis", "Edward Norton", "Naomi Watts"]}
+{"title": "Dawn of the Planet of the Apes", "budget": 170000000, "revenue": 710644566, "actors": ["Andy Serkis", "Gary Oldman", "Judy Greer"]}
+{"title": "The Interview", "budget": 44000000, "revenue": 12342632, "actors": ["James Franco", "Seth Rogen"]}
+{"title": "Scouts Guide to the Zombie Apocalypse", "budget": 15000000, "revenue": 14900000, "actors": ["Missy Martinez"]}
+{"title": "Fifty Shades of Grey", "budget": 40000000, "revenue": 569651467, "actors": ["Dakota Johnson", "Jennifer Ehle"]}
+{"title": "Jurassic World", "budget": 150000000, "revenue": 1671537444, "actors": ["Chris Pratt", "Bryce Dallas Howard", "Vincent D'Onofrio", "Judy Greer"]}
+{"title": "Avengers: Age of Ultron", "budget": 365000000, "revenue": 1405403694, "actors": ["Robert Downey Jr.", "Chris Hemsworth", "Mark Ruffalo", "Chris Evans", "Scarlett Johansson", "Jeremy Renner", "James Spader", "Samuel L. Jackson", "Aaron Taylor-Johnson", "Elizabeth Olsen", "Paul Bettany", "Cobie Smulders", "Anthony Mackie", "Hayley Atwell", "Idris Elba", "Linda Cardellini", "Andy Serkis", "Julie Delpy", "Kerry Condon"]}
+{"title": "Mad Max: Fury Road", "budget": 150000000, "revenue": 378858340, "actors": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"]}
+{"title": "Ted 2", "budget": 68000000, "revenue": 215863606, "actors": ["Mark Wahlberg", "Seth MacFarlane", "Amanda Seyfried", "Giovanni Ribisi", "Morgan Freeman", "Liam Neeson"]}
+{"title": "Furious 7", "budget": 190000000, "revenue": 1515400000, "actors": ["Vin Diesel", "Paul Walker", "Jason Statham", "Dwayne Johnson", "Kurt Russell", "Nathalie Emmanuel", "Tony Jaa"]}
+{"title": "Cinderella", "budget": 95000000, "revenue": 543514353, "actors": ["Lily James", "Cate Blanchett", "Helena Bonham Carter", "Hayley Atwell"]}
+{"title": "Mission: Impossible - Rogue Nation", "budget": 150000000, "revenue": 682716636, "actors": ["Tom Cruise", "Jeremy Renner", "Simon Pegg", "Rebecca Ferguson", "Ving Rhames", "Nigel Allen"]}
+{"title": "Fantastic Four", "budget": 120000000, "revenue": 167977596, "actors": ["Michael B. Jordan", "Kate Mara"]}
+{"title": "The Martian", "budget": 108000000, "revenue": 631058917, "actors": ["Matt Damon", "Jessica Chastain", "Michael Pe\u00f1a", "Sean Bean", "Kate Mara", "Sebastian Stan", "Benedict Wong"]}
+{"title": "Sicario", "budget": 30000000, "revenue": 84997446, "actors": ["Emily Blunt", "Benicio del Toro", "Josh Brolin", "Jon Bernthal"]}
+{"title": "Maze Runner: The Scorch Trials", "budget": 61000000, "revenue": 312296056, "actors": ["Kaya Scodelario", "Thomas Brodie-Sangster", "Nathalie Emmanuel"]}
+{"title": "Kingsman: The Secret Service", "budget": 81000000, "revenue": 414351546, "actors": ["Taron Egerton", "Colin Firth", "Samuel L. Jackson", "Mark Strong", "Sofia Boutella", "Michael Caine", "Mark Hamill"]}
+{"title": "Star Wars: The Force Awakens", "budget": 245000000, "revenue": 2068223624, "actors": ["Harrison Ford", "Mark Hamill", "Oscar Isaac", "Andy Serkis", "Domhnall Gleeson", "Gwendoline Christie", "Simon Pegg", "Hannah John-Kamen", "Thomas Brodie-Sangster"]}
+{"title": "The Age of Adaline", "budget": 25000000, "revenue": 65663276, "actors": ["Blake Lively", "Harrison Ford", "Richard Harmon"]}
+{"title": "Insurgent", "budget": 110000000, "revenue": 297002527, "actors": ["Shailene Woodley", "Theo James", "Kate Winslet", "Ray Stevenson", "Naomi Watts", "Daniel Dae Kim", "Maggie Q"]}
+{"title": "The Hunger Games: Mockingjay - Part 2", "budget": 160000000, "revenue": 653428261, "actors": ["Jennifer Lawrence", "Josh Hutcherson", "Liam Hemsworth", "Woody Harrelson", "Elizabeth Banks", "Julianne Moore", "Stanley Tucci", "Donald Sutherland", "Sam Claflin", "Jena Malone", "Mahershala Ali", "Natalie Dormer", "Gwendoline Christie"]}
+{"title": "Terminator Genisys", "budget": 155000000, "revenue": 440603537, "actors": ["Emilia Clarke", "Arnold Schwarzenegger", "J.K. Simmons", "Lee Byung-hun"]}
+{"title": "The Big Short", "budget": 28000000, "revenue": 133346506, "actors": ["Steve Carell", "Christian Bale", "Ryan Gosling", "Brad Pitt", "Marisa Tomei", "Karen Gillan", "Margot Robbie"]}
+{"title": "Tomorrowland", "budget": 190000000, "revenue": 209200000, "actors": ["Britt Robertson", "Pierce Gagnon", "Judy Greer"]}
+{"title": "The Hateful Eight", "budget": 44000000, "revenue": 155760117, "actors": ["Samuel L. Jackson", "Kurt Russell", "Jennifer Jason Leigh", "Walton Goggins", "Tim Roth", "Craig Stark", "Channing Tatum"]}
+{"title": "Wild Card", "budget": 30000000, "revenue": 6738764, "actors": ["Jason Statham", "Stanley Tucci"]}
+{"title": "Pixels", "budget": 88000000, "revenue": 244900000, "actors": ["Adam Sandler", "Michelle Monaghan", "Peter Dinklage", "Sean Bean", "Jackie Sandler", "Sunny Sandler", "Anthony Ippolito", "Jocelyn Hudon"]}
+{"title": "Creed", "budget": 37000000, "revenue": 173600000, "actors": ["Michael B. Jordan", "Sylvester Stallone", "Liev Schreiber"]}
+{"title": "Goosebumps", "budget": 58000000, "revenue": 158261424, "actors": ["Jack Black"]}
+{"title": "The Conjuring 2", "budget": 40000000, "revenue": 322817207, "actors": ["Patrick Wilson", "Vera Farmiga", "Madison Wolfe"]}
+{"title": "The Handmaiden", "budget": 8575000, "revenue": 38600000, "actors": ["Song Da-eun"]}
+{"title": "Captain America: Civil War", "budget": 250000000, "revenue": 1155046416, "actors": ["Chris Evans", "Robert Downey Jr.", "Scarlett Johansson", "Sebastian Stan", "Anthony Mackie", "Jeremy Renner", "Paul Bettany", "Elizabeth Olsen", "Paul Rudd", "Tom Holland", "Frank Grillo", "Martin Freeman", "Marisa Tomei", "Kerry Condon"]}
+{"title": "Hacksaw Ridge", "budget": 40000000, "revenue": 175302354, "actors": ["Andrew Garfield", "Sam Worthington", "James Lugton"]}
+{"title": "Batman v Superman: Dawn of Justice", "budget": 250000000, "revenue": 874362803, "actors": ["Ben Affleck", "Henry Cavill", "Gal Gadot", "Amy Adams", "Diane Lane", "Laurence Fishburne", "Jeremy Irons", "Lauren Cohan", "Carla Gugino", "Kevin Costner", "Jason Momoa", "Patrick Wilson"]}
+{"title": "Me Before You", "budget": 20000000, "revenue": 207945075, "actors": ["Emilia Clarke", "Sam Claflin", "Charles Dance", "Jenna Coleman", "Vanessa Kirby"]}
+{"title": "Deadpool", "budget": 58000000, "revenue": 782837347, "actors": ["Ryan Reynolds", "Morena Baccarin"]}
+{"title": "Train to Busan", "budget": 8500000, "revenue": 87547518, "actors": ["Don Lee"]}
+{"title": "Fantastic Beasts and Where to Find Them", "budget": 180000000, "revenue": 809342332, "actors": ["Eddie Redmayne", "Colin Farrell", "Jon Voight", "Ron Perlman", "Johnny Depp"]}
+{"title": "The Accountant", "budget": 44000000, "revenue": 155160045, "actors": ["Ben Affleck", "Anna Kendrick", "J.K. Simmons", "Jon Bernthal", "John Lithgow"]}
+{"title": "Hidden Figures", "budget": 25000000, "revenue": 235957472, "actors": ["Kevin Costner", "Mahershala Ali", "Glen Powell"]}
+{"title": "X-Men: Apocalypse", "budget": 178000000, "revenue": 543934787, "actors": ["James McAvoy", "Michael Fassbender", "Jennifer Lawrence", "Nicholas Hoult", "Oscar Isaac", "Rose Byrne", "Evan Peters", "Lucas Till", "Ben Hardy"]}
+{"title": "Jack Reacher: Never Go Back", "budget": 60000000, "revenue": 162100000, "actors": ["Tom Cruise", "Cobie Smulders", "Holt McCallany", "Robert Knepper"]}
+{"title": "Rogue One: A Star Wars Story", "budget": 200000000, "revenue": 1056057273, "actors": ["Felicity Jones", "Diego Luna", "Donnie Yen", "Mads Mikkelsen", "Daniel Mays", "Mark Hamill"]}
+{"title": "Ghostbusters", "budget": 144000000, "revenue": 229147509, "actors": ["Chris Hemsworth", "Charles Dance", "Andy Garc\u00eda", "Sigourney Weaver"]}
+{"title": "Monster Trucks", "budget": 125000000, "revenue": 64493915, "actors": ["Lucas Till", "Holt McCallany", "Samara Weaving"]}
+{"title": "Warcraft", "budget": 160000000, "revenue": 433677183, "actors": ["Travis Fimmel", "Clancy Brown"]}
+{"title": "The Magnificent Seven", "budget": 90000000, "revenue": 162400000, "actors": ["Denzel Washington", "Chris Pratt", "Ethan Hawke", "Vincent D'Onofrio", "Lee Byung-hun", "Haley Bennett"]}
+{"title": "Arrival", "budget": 47000000, "revenue": 203388186, "actors": ["Amy Adams", "Jeremy Renner"]}
+{"title": "Doctor Strange", "budget": 180000000, "revenue": 676343174, "actors": ["Benedict Cumberbatch", "Rachel McAdams", "Benedict Wong", "Mads Mikkelsen", "Tilda Swinton", "Scott Adkins"]}
+{"title": "Suicide Squad", "budget": 175000000, "revenue": 749200054, "actors": ["Will Smith", "Margot Robbie", "Joel Kinnaman"]}
+{"title": "Miss Peregrine's Home for Peculiar Children", "budget": 110000000, "revenue": 296482446, "actors": ["Eva Green", "Asa Butterfield", "Samuel L. Jackson", "Allison Janney", "Ella Purnell", "Terence Stamp"]}
+{"title": "Mechanic: Resurrection", "budget": 40000000, "revenue": 125729635, "actors": ["Jason Statham", "Jessica Alba", "Tommy Lee Jones", "Michelle Yeoh", "Brahim Achabbakhe"]}
+{"title": "La La Land", "budget": 30000000, "revenue": 509183536, "actors": ["Ryan Gosling", "Emma Stone", "J.K. Simmons", "Briana Lee"]}
+{"title": "Star Trek Beyond", "budget": 185000000, "revenue": 343471816, "actors": ["Chris Pine", "Karl Urban", "Zoe Salda\u00f1a", "Simon Pegg", "Idris Elba", "Sofia Boutella", "Shea Whigham"]}
+{"title": "The Great Wall", "budget": 150000000, "revenue": 331957105, "actors": ["Matt Damon", "Willem Dafoe", "Andy Lau", "Pedro Pascal"]}
+{"title": "Inferno", "budget": 75000000, "revenue": 220021259, "actors": ["Tom Hanks", "Felicity Jones"]}
+{"title": "Only the Brave", "budget": 38000000, "revenue": 25754775, "actors": ["Josh Brolin", "Jeff Bridges", "Jennifer Connelly", "Taylor Kitsch", "Andie MacDowell", "Ben Hardy"]}
+{"title": "Annabelle: Creation", "budget": 15000000, "revenue": 306592201, "actors": ["Annabelle Wallis"]}
+{"title": "Spider-Man: Homecoming", "budget": 175000000, "revenue": 880166924, "actors": ["Tom Holland", "Michael Keaton", "Robert Downey Jr.", "Marisa Tomei", "Jon Favreau", "Zendaya", "Jennifer Connelly", "Chris Evans", "Kerry Condon"]}
+{"title": "Wonder Woman", "budget": 149000000, "revenue": 823970682, "actors": ["Gal Gadot", "Chris Pine", "Connie Nielsen", "Robin Wright", "Danny Huston", "David Thewlis", "Elena Anaya", "James Cosmo", "Martin Bishop"]}
+{"title": "Guardians of the Galaxy Vol. 2", "budget": 200000000, "revenue": 863756051, "actors": ["Chris Pratt", "Zoe Salda\u00f1a", "Dave Bautista", "Vin Diesel", "Kurt Russell", "Michael Rooker", "Karen Gillan", "Pom Klementieff", "Sylvester Stallone", "Ving Rhames", "Michelle Yeoh"]}
+{"title": "John Wick: Chapter 2", "budget": 40000000, "revenue": 171539887, "actors": ["Keanu Reeves", "Laurence Fishburne", "Peter Stormare", "Ian McShane"]}
+{"title": "Blade Runner 2049", "budget": 150000000, "revenue": 259239658, "actors": ["Ryan Gosling", "Harrison Ford", "Ana de Armas", "Dave Bautista", "Robin Wright"]}
+{"title": "Pirates of the Caribbean: Dead Men Tell No Tales", "budget": 230000000, "revenue": 795922298, "actors": ["Johnny Depp", "Javier Bardem", "Geoffrey Rush", "Kaya Scodelario", "Golshifteh Farahani", "Orlando Bloom", "Keira Knightley"]}
+{"title": "Baby Driver", "budget": 34000000, "revenue": 226945087, "actors": ["Lily James", "Jon Hamm", "Jon Bernthal", "Eiza Gonz\u00e1lez"]}
+{"title": "xXx: Return of Xander Cage", "budget": 85000000, "revenue": 346118277, "actors": ["Vin Diesel", "Donnie Yen", "Samuel L. Jackson", "Nina Dobrev", "Tony Jaa"]}
+{"title": "It", "budget": 35000000, "revenue": 704242888, "actors": ["Bill Skarsg\u00e5rd"]}
+{"title": "Thor: Ragnarok", "budget": 180000000, "revenue": 855301806, "actors": ["Chris Hemsworth", "Mark Ruffalo", "Cate Blanchett", "Idris Elba", "Jeff Goldblum", "Karl Urban", "Anthony Hopkins", "Benedict Cumberbatch", "Clancy Brown", "Ray Stevenson", "Sam Neill"]}
+{"title": "Logan", "budget": 97000000, "revenue": 619021436, "actors": ["Hugh Jackman", "Dafne Keen"]}
+{"title": "Transformers: The Last Knight", "budget": 217000000, "revenue": 605425157, "actors": ["Mark Wahlberg", "Anthony Hopkins", "Isabela Merced", "Stanley Tucci", "Frank Welker", "John Goodman", "Ken Watanabe", "Steve Buscemi"]}
+{"title": "Justice League", "budget": 300000000, "revenue": 661326987, "actors": ["Ben Affleck", "Henry Cavill", "Amy Adams", "Gal Gadot", "Jason Momoa", "Jeremy Irons", "Diane Lane", "Connie Nielsen", "J.K. Simmons", "Ciar\u00e1n Hinds", "Amber Heard", "David Thewlis"]}
+{"title": "The Fate of the Furious", "budget": 250000000, "revenue": 1236000000, "actors": ["Vin Diesel", "Jason Statham", "Dwayne Johnson", "Charlize Theron", "Kurt Russell", "Nathalie Emmanuel"]}
+{"title": "Valerian and the City of a Thousand Planets", "budget": 177200000, "revenue": 225973340, "actors": ["Clive Owen", "Ethan Hawke", "John Goodman"]}
+{"title": "Dunkirk", "budget": 150000000, "revenue": 527000000, "actors": ["Tom Hardy", "Kenneth Branagh", "Cillian Murphy"]}
+{"title": "The Dark Tower", "budget": 60000000, "revenue": 113231078, "actors": ["Idris Elba", "Matthew McConaughey", "Katheryn Winnick", "Emily Child"]}
+{"title": "Fifty Shades Darker", "budget": 55000000, "revenue": 381545846, "actors": ["Dakota Johnson", "Jennifer Ehle"]}
+{"title": "Beauty and the Beast", "budget": 160000000, "revenue": 1266115964, "actors": ["Emma Watson", "Dan Stevens", "Ewan McGregor", "Ian McKellen", "Emma Thompson", "Stanley Tucci"]}
+{"title": "Split", "budget": 9000000, "revenue": 278454358, "actors": ["James McAvoy", "Anya Taylor-Joy", "Rosemary Howard"]}
+{"title": "Star Wars: The Last Jedi", "budget": 200000000, "revenue": 1332698830, "actors": ["Mark Hamill", "Oscar Isaac", "Andy Serkis", "Domhnall Gleeson", "Gwendoline Christie", "Joseph Gordon-Levitt"]}
+{"title": "Vengeance: A Love Story", "budget": 28000000, "revenue": 14940116, "actors": ["Nicolas Cage"]}
+{"title": "Alien: Covenant", "budget": 97000000, "revenue": 240891763, "actors": ["Michael Fassbender"]}
+{"title": "The Greatest Showman", "budget": 84000000, "revenue": 459066134, "actors": ["Hugh Jackman", "Zac Efron", "Rebecca Ferguson", "Zendaya"]}
+{"title": "Kong: Skull Island", "budget": 185000000, "revenue": 566652812, "actors": ["Samuel L. Jackson", "John Goodman", "Shea Whigham"]}
+{"title": "The Hitman's Bodyguard", "budget": 30000000, "revenue": 176586701, "actors": ["Ryan Reynolds", "Samuel L. Jackson", "Gary Oldman", "Richard E. Grant", "Lee Nicholas Harris"]}
+{"title": "Baywatch", "budget": 69000000, "revenue": 177900000, "actors": ["Dwayne Johnson", "Zac Efron", "Alexandra Daddario", "Pamela Anderson"]}
+{"title": "Life", "budget": 58000000, "revenue": 100541806, "actors": ["Jake Gyllenhaal", "Ryan Reynolds", "Rebecca Ferguson"]}
+{"title": "War for the Planet of the Apes", "budget": 150000000, "revenue": 490719763, "actors": ["Andy Serkis", "Woody Harrelson", "Steve Zahn", "Judy Greer"]}
+{"title": "Avengers: Infinity War", "budget": 300000000, "revenue": 2052415039, "actors": ["Robert Downey Jr.", "Chris Evans", "Chris Hemsworth", "Josh Brolin", "Mark Ruffalo", "Scarlett Johansson", "Benedict Cumberbatch", "Tom Holland", "Zoe Salda\u00f1a", "Karen Gillan", "Paul Bettany", "Elizabeth Olsen", "Anthony Mackie", "Sebastian Stan", "Idris Elba", "Peter Dinklage", "Benedict Wong", "Pom Klementieff", "Dave Bautista", "Vin Diesel", "Chris Pratt", "Benicio del Toro", "Carrie Coon", "Kerry Condon", "Ariana Greenblatt"]}
+{"title": "The Nun", "budget": 22000000, "revenue": 366082797, "actors": ["Taissa Farmiga", "Patrick Wilson", "Vera Farmiga"]}
+{"title": "Fifty Shades Freed", "budget": 55000000, "revenue": 371985018, "actors": ["Dakota Johnson", "Jennifer Ehle"]}
+{"title": "Mission: Impossible - Fallout", "budget": 178000000, "revenue": 791658205, "actors": ["Tom Cruise", "Henry Cavill", "Ving Rhames", "Simon Pegg", "Rebecca Ferguson", "Angela Bassett", "Vanessa Kirby", "Alec Baldwin", "Nigel Allen"]}
+{"title": "Jurassic World: Fallen Kingdom", "budget": 170000000, "revenue": 1310469037, "actors": ["Chris Pratt", "Bryce Dallas Howard", "Ted Levine", "Jeff Goldblum", "Geraldine Chaplin", "Eric Kofi Abrefa"]}
+{"title": "Venom", "budget": 116000000, "revenue": 856085151, "actors": ["Tom Hardy", "Woody Harrelson"]}
+{"title": "Maze Runner: The Death Cure", "budget": 62000000, "revenue": 288175335, "actors": ["Kaya Scodelario", "Thomas Brodie-Sangster", "Giancarlo Esposito", "Will Poulter", "Aidan Gillen", "Walton Goggins", "Nathalie Emmanuel", "Scot Cooper", "Emily Child"]}
+{"title": "Ready Player One", "budget": 175000000, "revenue": 607274134, "actors": ["Olivia Cooke", "Simon Pegg", "Hannah John-Kamen", "Mckenna Grace"]}
+{"title": "Terrifier", "budget": 35000, "revenue": 421798, "actors": ["Catherine Corcoran"]}
+{"title": "The Equalizer 2", "budget": 62000000, "revenue": 190400157, "actors": ["Denzel Washington", "Pedro Pascal", "Bill Pullman"]}
+{"title": "Deadpool 2", "budget": 110000000, "revenue": 785896632, "actors": ["Ryan Reynolds", "Josh Brolin", "Morena Baccarin", "Zazie Beetz", "Bill Skarsg\u00e5rd", "Brad Pitt", "Matt Damon"]}
+{"title": "Green Book", "budget": 23000000, "revenue": 321752656, "actors": ["Viggo Mortensen", "Linda Cardellini"]}
+{"title": "Rampage", "budget": 120000000, "revenue": 428028233, "actors": ["Dwayne Johnson", "Malin \u00c5kerman", "Jeffrey Dean Morgan", "Jack Quaid"]}
+{"title": "The Predator", "budget": 88000000, "revenue": 160542134, "actors": ["Jacob Tremblay", "Thomas Jane", "Yvonne Strahovski"]}
+{"title": "Bohemian Rhapsody", "budget": 52000000, "revenue": 910813521, "actors": ["Rami Malek", "Ben Hardy", "Mike Myers"]}
+{"title": "The Meg", "budget": 150000000, "revenue": 530517320, "actors": ["Jason Statham", "Ruby Rose", "Shuya Sophia Cai"]}
+{"title": "Mortal Engines", "budget": 100000000, "revenue": 83869818, "actors": ["Stephen Lang"]}
+{"title": "Tomb Raider", "budget": 94000000, "revenue": 274650803, "actors": ["Alicia Vikander", "Walton Goggins", "Kristin Scott Thomas", "Hannah John-Kamen"]}
+{"title": "Black Panther", "budget": 200000000, "revenue": 1349926083, "actors": ["Michael B. Jordan", "Martin Freeman", "Forest Whitaker", "Andy Serkis"]}
+{"title": "Creed II", "budget": 50000000, "revenue": 214200000, "actors": ["Michael B. Jordan", "Sylvester Stallone", "Dolph Lundgren"]}
+{"title": "Sicario: Day of the Soldado", "budget": 35000000, "revenue": 75836683, "actors": ["Josh Brolin", "Isabela Merced", "Shea Whigham"]}
+{"title": "Skyscraper", "budget": 125000000, "revenue": 304870828, "actors": ["Dwayne Johnson", "Pablo Schreiber"]}
+{"title": "Ocean's Eight", "budget": 70000000, "revenue": 297718711, "actors": ["Sandra Bullock", "Cate Blanchett", "Anne Hathaway", "Sarah Paulson", "Helena Bonham Carter", "Dakota Fanning", "Kim Kardashian"]}
+{"title": "A Quiet Place", "budget": 17000000, "revenue": 340955294, "actors": ["Emily Blunt", "John Krasinski"]}
+{"title": "Red Sparrow", "budget": 69000000, "revenue": 151572634, "actors": ["Jennifer Lawrence", "Charlotte Rampling", "Jeremy Irons", "Ciar\u00e1n Hinds", "Mary-Louise Parker"]}
+{"title": "Bumblebee", "budget": 135000000, "revenue": 467989645, "actors": ["Hailee Steinfeld", "John Cena", "Angela Bassett"]}
+{"title": "The Commuter", "budget": 30000000, "revenue": 119942387, "actors": ["Liam Neeson", "Patrick Wilson", "Sam Neill", "Jonathan Banks", "Vera Farmiga", "Elizabeth McGovern", "Florence Pugh", "Damson Idris"]}
+{"title": "Pacific Rim: Uprising", "budget": 150000000, "revenue": 290061297, "actors": ["Adria Arjona"]}
+{"title": "Ant-Man and the Wasp", "budget": 140000000, "revenue": 622674139, "actors": ["Paul Rudd", "Evangeline Lilly", "Michael Douglas", "Hannah John-Kamen", "Michelle Pfeiffer", "Laurence Fishburne", "Walton Goggins", "Judy Greer", "David Dastmalchian"]}
+{"title": "The Witch: Part 1. The Subversion", "budget": 5500000, "revenue": 24340302, "actors": ["Chung Ye-jin"]}
+{"title": "Aquaman", "budget": 160000000, "revenue": 1152028393, "actors": ["Jason Momoa", "Amber Heard", "Willem Dafoe", "Patrick Wilson", "Nicole Kidman", "Dolph Lundgren"]}
+{"title": "Den of Thieves", "budget": 30000000, "revenue": 80509622, "actors": ["Gerard Butler", "Pablo Schreiber"]}
+{"title": "Annihilation", "budget": 40000000, "revenue": 43070915, "actors": ["Natalie Portman", "Jennifer Jason Leigh", "Oscar Isaac", "Benedict Wong"]}
+{"title": "Joker", "budget": 55000000, "revenue": 1078958629, "actors": ["Robert De Niro", "Zazie Beetz", "Shea Whigham"]}
+{"title": "Once Upon a Time... in Hollywood", "budget": 95000000, "revenue": 392105159, "actors": ["Leonardo DiCaprio", "Brad Pitt", "Margot Robbie", "Emile Hirsch", "Margaret Qualley", "Timothy Olyphant", "Julia Butters", "Austin Butler", "Dakota Fanning", "Al Pacino", "Mikey Madison", "Sydney Sweeney", "Kurt Russell", "James Remar", "Craig Stark"]}
+{"title": "Avengers: Endgame", "budget": 356000000, "revenue": 2799439100, "actors": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo", "Chris Hemsworth", "Scarlett Johansson", "Jeremy Renner", "Josh Brolin", "Paul Rudd", "Benedict Cumberbatch", "Tom Holland", "Karen Gillan", "Zoe Salda\u00f1a", "Evangeline Lilly", "Elizabeth Olsen", "Anthony Mackie", "Sebastian Stan", "Tom Hiddleston", "Benedict Wong", "Pom Klementieff", "Dave Bautista", "Tilda Swinton", "Jon Favreau", "Hayley Atwell", "Natalie Portman", "Marisa Tomei", "Michael Douglas", "Michelle Pfeiffer", "Cobie Smulders", "Linda Cardellini", "Frank Grillo", "Vin Diesel", "Bradley Cooper", "Gwyneth Paltrow", "Chris Pratt", "Samuel L. Jackson", "Kerry Condon"]}
+{"title": "The Gangster, the Cop, the Devil", "budget": 6500000, "revenue": 25775371, "actors": ["Don Lee"]}
+{"title": "Annabelle Comes Home", "budget": 27000000, "revenue": 231252591, "actors": ["Mckenna Grace", "Vera Farmiga", "Patrick Wilson"]}
+{"title": "Spider-Man: Far From Home", "budget": 160000000, "revenue": 1131927996, "actors": ["Tom Holland", "Jake Gyllenhaal", "Samuel L. Jackson", "Marisa Tomei", "Jon Favreau", "Zendaya", "Cobie Smulders", "J.K. Simmons", "Giada Benedetti"]}
+{"title": "Fast & Furious Presents: Hobbs & Shaw", "budget": 200000000, "revenue": 760098996, "actors": ["Dwayne Johnson", "Jason Statham", "Idris Elba", "Vanessa Kirby", "Helen Mirren", "Eiza Gonz\u00e1lez", "Ryan Reynolds"]}
+{"title": "John Wick: Chapter 3 - Parabellum", "budget": 55000000, "revenue": 326709727, "actors": ["Keanu Reeves", "Halle Berry", "Ian McShane", "Laurence Fishburne", "Cecep Arif Rahman"]}
+{"title": "Jumanji: The Next Level", "budget": 125000000, "revenue": 801693929, "actors": ["Dwayne Johnson", "Kevin Hart", "Jack Black", "Karen Gillan", "Danny DeVito"]}
+{"title": "Terminator: Dark Fate", "budget": 185000000, "revenue": 261119292, "actors": ["Arnold Schwarzenegger", "Tom Hopper"]}
+{"title": "Knives Out", "budget": 40000000, "revenue": 312897920, "actors": ["Daniel Craig", "Chris Evans", "Ana de Armas", "Jamie Lee Curtis", "Christopher Plummer", "M. Emmet Walsh", "Joseph Gordon-Levitt"]}
+{"title": "It Chapter Two", "budget": 79000000, "revenue": 473123154, "actors": ["Bill Skarsg\u00e5rd", "James McAvoy", "Jessica Chastain"]}
+{"title": "Alita: Battle Angel", "budget": 170000000, "revenue": 405000000, "actors": ["Christoph Waltz", "Jennifer Connelly", "Eiza Gonz\u00e1lez"]}
+{"title": "The Curse of La Llorona", "budget": 9000000, "revenue": 123233739, "actors": ["Linda Cardellini"]}
+{"title": "Midsommar", "budget": 9000000, "revenue": 48498408, "actors": ["Florence Pugh", "Will Poulter", "Bj\u00f6rn Andr\u00e9sen"]}
+{"title": "Ford v Ferrari", "budget": 97600000, "revenue": 225508210, "actors": ["Matt Damon", "Christian Bale", "Jon Bernthal"]}
+{"title": "Godzilla: King of the Monsters", "budget": 170000000, "revenue": 387300138, "actors": ["Vera Farmiga", "Millie Bobby Brown", "Ken Watanabe", "Zhang Ziyi", "Charles Dance", "Anthony Ramos"]}
+{"title": "Pok\u00e9mon Detective Pikachu", "budget": 150000000, "revenue": 449762638, "actors": ["Ryan Reynolds", "Kathryn Newton", "Ken Watanabe", "Bill Nighy"]}
+{"title": "Star Wars: The Rise of Skywalker", "budget": 416000000, "revenue": 1074144248, "actors": ["Mark Hamill", "Oscar Isaac", "Naomi Ackie", "Domhnall Gleeson", "Richard E. Grant", "Andy Serkis", "Hayden Christensen", "Samuel L. Jackson", "Ewan McGregor", "Liam Neeson"]}
+{"title": "Aladdin", "budget": 183000000, "revenue": 1097831681, "actors": ["Will Smith", "Frank Welker"]}
+{"title": "Rambo: Last Blood", "budget": 50000000, "revenue": 91500000, "actors": ["Sylvester Stallone"]}
+{"title": "Ready or Not", "budget": 6000000, "revenue": 57600000, "actors": ["Samara Weaving", "Adam Brody", "Andie MacDowell"]}
+{"title": "Us", "budget": 20000000, "revenue": 256067149, "actors": ["Elisabeth Moss"]}
+{"title": "1917", "budget": 100000000, "revenue": 394638258, "actors": ["Mark Strong", "Colin Firth", "Benedict Cumberbatch", "Daniel Mays"]}
+{"title": "Escape Room", "budget": 9000000, "revenue": 155712077, "actors": ["Cornelius Geaney Jr."]}
+{"title": "Shazam!", "budget": 80000000, "revenue": 367799011, "actors": ["Mark Strong", "Adam Brody"]}
+{"title": "Captain Marvel", "budget": 152000000, "revenue": 1131416446, "actors": ["Samuel L. Jackson", "Jude Law", "Lee Pace", "Lashana Lynch", "Mckenna Grace"]}
+{"title": "Men in Black: International", "budget": 110000000, "revenue": 253890701, "actors": ["Chris Hemsworth", "Rebecca Ferguson", "Emma Thompson", "Liam Neeson"]}
+{"title": "Maleficent: Mistress of Evil", "budget": 185000000, "revenue": 491730089, "actors": ["Angelina Jolie", "Elle Fanning", "Harris Dickinson", "Michelle Pfeiffer", "Ed Skrein", "Juno Temple", "Martin Bishop"]}
+{"title": "Little Women", "budget": 40000000, "revenue": 216600000, "actors": ["Saoirse Ronan", "Emma Watson", "Florence Pugh", "Timoth\u00e9e Chalamet", "Bob Odenkirk", "Taylor Jorgensen"]}
+{"title": "Glass", "budget": 20000000, "revenue": 246999039, "actors": ["James McAvoy", "Bruce Willis", "Samuel L. Jackson", "Sarah Paulson", "Anya Taylor-Joy", "Rosemary Howard"]}
+{"title": "Gemini Man", "budget": 140000000, "revenue": 173469516, "actors": ["Will Smith", "Mary Elizabeth Winstead", "Clive Owen", "Benedict Wong"]}
+{"title": "The Lighthouse", "budget": 11000000, "revenue": 18262464, "actors": ["Robert Pattinson", "Willem Dafoe"]}
+{"title": "The Art of Racing in the Rain", "budget": 18000000, "revenue": 33800000, "actors": ["Kevin Costner", "Amanda Seyfried"]}
+{"title": "Iron Mask", "budget": 49000000, "revenue": 8685794, "actors": ["Jackie Chan", "Charles Dance", "Arnold Schwarzenegger"]}
+{"title": "The Irishman", "budget": 159000000, "revenue": 968853, "actors": ["Robert De Niro", "Al Pacino", "Jesse Plemons", "Craig Vincent"]}
+{"title": "Wonder Woman 1984", "budget": 200000000, "revenue": 169601036, "actors": ["Gal Gadot", "Chris Pine", "Pedro Pascal", "Robin Wright", "Connie Nielsen"]}
+{"title": "Sonic the Hedgehog", "budget": 85000000, "revenue": 319715683, "actors": ["James Marsden", "Jim Carrey", "Neal McDonough"]}
+{"title": "Bad Boys for Life", "budget": 90000000, "revenue": 426505244, "actors": ["Will Smith", "Martin Lawrence"]}
+{"title": "Tenet", "budget": 205000000, "revenue": 365304105, "actors": ["Robert Pattinson", "Kenneth Branagh", "Michael Caine", "Cl\u00e9mence Po\u00e9sy", "Aaron Taylor-Johnson"]}
+{"title": "After We Collided", "budget": 14000000, "revenue": 47990414, "actors": ["Jon W. Sparks"]}
+{"title": "Underwater", "budget": 50000000, "revenue": 40882928, "actors": ["Kristen Stewart", "Vincent Cassel"]}
+{"title": "Greenland", "budget": 34000000, "revenue": 52300000, "actors": ["Gerard Butler", "Morena Baccarin", "Holt McCallany"]}
+{"title": "Palm Springs", "budget": 5000000, "revenue": 1818417, "actors": ["Andy Samberg", "Cristin Milioti", "J.K. Simmons"]}
+{"title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)", "budget": 75000000, "revenue": 205537933, "actors": ["Margot Robbie", "Mary Elizabeth Winstead", "Ewan McGregor"]}
+{"title": "The Gentlemen", "budget": 22000000, "revenue": 115171795, "actors": ["Matthew McConaughey", "Charlie Hunnam", "Colin Farrell"]}
+{"title": "The Hunt", "budget": 14000000, "revenue": 10550350, "actors": ["Emma Roberts", "Amy Madigan"]}
+{"title": "Bloodshot", "budget": 42000000, "revenue": 39861118, "actors": ["Vin Diesel", "Eiza Gonz\u00e1lez", "Guy Pearce", "David Dukas"]}
+{"title": "The New Mutants", "budget": 67000000, "revenue": 49169594, "actors": ["Anya Taylor-Joy"]}
+{"title": "Dolittle", "budget": 175000000, "revenue": 251410631, "actors": ["Robert Downey Jr.", "Antonio Banderas", "Rami Malek", "Jessie Buckley", "Emma Thompson", "John Cena", "Ralph Fiennes", "Tom Holland", "Marion Cotillard", "Frances de la Tour", "Ralph Ineson"]}
+{"title": "Mulan", "budget": 200000000, "revenue": 69965374, "actors": ["Liu Yifei", "Donnie Yen", "Gong Li", "Jet Li"]}
+{"title": "Monster Hunter", "budget": 60000000, "revenue": 42145959, "actors": ["Milla Jovovich", "Tony Jaa", "Ron Perlman"]}
+{"title": "Emma.", "budget": 10000000, "revenue": 25200000, "actors": ["Anya Taylor-Joy", "Callum Turner", "Mia Goth", "Bill Nighy"]}
+{"title": "The Call of the Wild", "budget": 109000000, "revenue": 111200000, "actors": ["Harrison Ford", "Dan Stevens", "Karen Gillan"]}
+{"title": "The Outpost", "budget": 18000000, "revenue": 2133452, "actors": ["Orlando Bloom", "Henry Lloyd-Hughes"]}
+{"title": "Color Out of Space", "budget": 6000000, "revenue": 1023510, "actors": ["Nicolas Cage"]}
+{"title": "The Father", "budget": 6000000, "revenue": 21029340, "actors": ["Anthony Hopkins", "Olivia Colman", "Imogen Poots"]}
+{"title": "Promising Young Woman", "budget": 10000000, "revenue": 20379604, "actors": ["Alison Brie", "Clancy Brown", "Jennifer Coolidge", "Adam Brody"]}
+{"title": "Love and Monsters", "budget": 30000000, "revenue": 1122066, "actors": ["Michael Rooker", "Ariana Greenblatt"]}
+{"title": "Let Him Go", "budget": 21000000, "revenue": 7997460, "actors": ["Diane Lane", "Kevin Costner"]}
+{"title": "Bill & Ted Face the Music", "budget": 25000000, "revenue": 6274027, "actors": ["Keanu Reeves", "Alex Winter", "Samara Weaving"]}
+{"title": "Joe Bell", "budget": 3500000, "revenue": 1700000, "actors": ["Mark Wahlberg"]}
+{"title": "My Spy", "budget": 18000000, "revenue": 10200000, "actors": ["Dave Bautista"]}
+{"title": "Riders of Justice", "budget": 5300000, "revenue": 679505, "actors": ["Mads Mikkelsen"]}
+{"title": "The War with Grandpa", "budget": 18000000, "revenue": 43387445, "actors": ["Robert De Niro", "Uma Thurman", "Christopher Walken"]}
+{"title": "Unhinged", "budget": 33000000, "revenue": 39238300, "actors": ["Russell Crowe"]}
+{"title": "The Rental", "budget": 3500000, "revenue": 4311042, "actors": ["Dan Stevens", "Alison Brie"]}
+{"title": "Baaghi 3", "budget": 7952450, "revenue": 18473570, "actors": ["Tiger Shroff"]}
+{"title": "Fantasy Island", "budget": 7000000, "revenue": 49500000, "actors": ["Maggie Q", "Lucy Hale", "Michael Rooker"]}
+{"title": "The Craft: Legacy", "budget": 18000000, "revenue": 2300000, "actors": ["Michelle Monaghan", "Nicholas Galitzine"]}
+{"title": "Legacy of Lies", "budget": 4500000, "revenue": 94583, "actors": ["Scott Adkins"]}
+{"title": "Jiu Jitsu", "budget": 23000000, "revenue": 99924, "actors": ["Nicolas Cage", "Tony Jaa", "Frank Grillo"]}
+{"title": "The Conjuring: The Devil Made Me Do It", "budget": 39000000, "revenue": 206439349, "actors": ["Patrick Wilson", "Vera Farmiga"]}
+{"title": "Spider-Man: No Way Home", "budget": 200000000, "revenue": 1921847111, "actors": ["Tom Holland", "Zendaya", "Benedict Cumberbatch", "Jon Favreau", "Willem Dafoe", "Benedict Wong", "Marisa Tomei", "Andrew Garfield", "Tobey Maguire", "J.K. Simmons"]}
+{"title": "Pleasure", "budget": 1800000, "revenue": 393824, "actors": ["Sofia Kappel", "Zelda Morrison", "Tee Reel", "Evelyn Claire", "Dana DeArmond", "Kendra Spade", "Mark Spiegler", "Lucy Hart", "John Strong", "Ryan McLane", "Charlotte Cross", "Xander Corvus", "Chanel Preston", "Casey Calvert", "Aiden Starr", "Mick Blue", "Nathan Bronson", "Steve Holmes", "Juliette March", "Abella Danger", "Gina Valentina", "Small Hands", "Derrick Pierce", "Tommy Pistol"]}
+{"title": "Nobody", "budget": 16000000, "revenue": 57512470, "actors": ["Bob Odenkirk", "Connie Nielsen", "Christopher Lloyd", "Kristen Harris"]}
+{"title": "The Suicide Squad", "budget": 185000000, "revenue": 168717425, "actors": ["Margot Robbie", "Idris Elba", "John Cena", "Joel Kinnaman", "Sylvester Stallone", "David Dastmalchian", "Michael Rooker", "Pete Davidson", "Nathan Fillion", "Jennifer Holland"]}
+{"title": "Dune", "budget": 165000000, "revenue": 407573628, "actors": ["Timoth\u00e9e Chalamet", "Rebecca Ferguson", "Oscar Isaac", "Jason Momoa", "Stellan Skarsg\u00e5rd", "Josh Brolin", "Javier Bardem", "Dave Bautista", "Zendaya", "Charlotte Rampling"]}
+{"title": "Wrath of Man", "budget": 40000000, "revenue": 103966489, "actors": ["Jason Statham", "Holt McCallany", "Josh Hartnett", "Andy Garc\u00eda"]}
+{"title": "The Tomorrow War", "budget": 200000000, "revenue": 14400000, "actors": ["Chris Pratt", "Yvonne Strahovski", "J.K. Simmons"]}
+{"title": "Free Guy", "budget": 110000000, "revenue": 331526598, "actors": ["Ryan Reynolds", "Channing Tatum", "Hugh Jackman", "Dwayne Johnson", "John Krasinski", "Chris Evans"]}
+{"title": "Shang-Chi and the Legend of the Ten Rings", "budget": 150000000, "revenue": 432243292, "actors": ["Ben Kingsley", "Michelle Yeoh", "Benedict Wong"]}
+{"title": "Cruella", "budget": 200000000, "revenue": 233503234, "actors": ["Emma Stone", "Emma Thompson", "Mark Strong"]}
+{"title": "Venom: Let There Be Carnage", "budget": 110000000, "revenue": 506863592, "actors": ["Tom Hardy", "Woody Harrelson"]}
+{"title": "Eternals", "budget": 200000000, "revenue": 402064899, "actors": ["Angelina Jolie", "Don Lee", "Bill Skarsg\u00e5rd"]}
+{"title": "Black Widow", "budget": 200000000, "revenue": 379751131, "actors": ["Scarlett Johansson", "Florence Pugh", "Rachel Weisz", "Olga Kurylenko"]}
+{"title": "A Quiet Place Part II", "budget": 55000000, "revenue": 297372261, "actors": ["Emily Blunt", "John Krasinski", "Cillian Murphy"]}
+{"title": "No Time to Die", "budget": 250000000, "revenue": 774153024, "actors": ["Daniel Craig", "Rami Malek", "Lashana Lynch", "Ralph Fiennes", "Christoph Waltz", "Ana de Armas", "Winston Ellis"]}
+{"title": "Ghostbusters: Afterlife", "budget": 75000000, "revenue": 204334455, "actors": ["Mckenna Grace", "Carrie Coon", "Paul Rudd", "Sigourney Weaver", "J.K. Simmons"]}
+{"title": "The Matrix Resurrections", "budget": 190000000, "revenue": 156497322, "actors": ["Keanu Reeves", "Christina Ricci"]}
+{"title": "Godzilla vs. Kong", "budget": 200000000, "revenue": 470116094, "actors": ["Alexander Skarsg\u00e5rd", "Millie Bobby Brown", "Eiza Gonz\u00e1lez"]}
+{"title": "Red Notice", "budget": 160000000, "revenue": 178143, "actors": ["Dwayne Johnson", "Ryan Reynolds", "Gal Gadot"]}
+{"title": "Snake Eyes: G.I. Joe Origins", "budget": 88000000, "revenue": 36964325, "actors": ["\u00darsula Corber\u00f3", "Samara Weaving"]}
+{"title": "Resident Evil: Welcome to Raccoon City", "budget": 25000000, "revenue": 41914915, "actors": ["Kaya Scodelario", "Hannah John-Kamen", "Robbie Amell", "Tom Hopper", "Neal McDonough"]}
+{"title": "Jungle Cruise", "budget": 200000000, "revenue": 220889446, "actors": ["Dwayne Johnson", "Emily Blunt", "Jesse Plemons", "Paul Giamatti"]}
+{"title": "The King's Man", "budget": 100000000, "revenue": 125897478, "actors": ["Ralph Fiennes", "Gemma Arterton", "Matthew Goode", "Harris Dickinson", "Charles Dance", "Aaron Taylor-Johnson", "Stanley Tucci"]}
+{"title": "F9", "budget": 200000000, "revenue": 726229501, "actors": ["Vin Diesel", "John Cena", "Nathalie Emmanuel", "Michael Rooker", "Helen Mirren", "Kurt Russell", "Charlize Theron", "Shea Whigham"]}
+{"title": "Halloween Kills", "budget": 20000000, "revenue": 133423964, "actors": ["Jamie Lee Curtis", "Judy Greer", "Will Patton", "Bob Odenkirk"]}
+{"title": "Don't Look Up", "budget": 75000000, "revenue": 791863, "actors": ["Leonardo DiCaprio", "Jennifer Lawrence", "Cate Blanchett", "Timoth\u00e9e Chalamet", "Ron Perlman", "Liev Schreiber"]}
+{"title": "Those Who Wish Me Dead", "budget": 20000000, "revenue": 23384502, "actors": ["Angelina Jolie", "Jon Bernthal", "Nicholas Hoult", "Aidan Gillen"]}
+{"title": "Licorice Pizza", "budget": 40000000, "revenue": 33276075, "actors": ["Skyler Gisondo", "Craig Stark"]}
+{"title": "The Forever Purge", "budget": 18000000, "revenue": 76994245, "actors": ["Will Patton"]}
+{"title": "The French Dispatch", "budget": 25000000, "revenue": 46333545, "actors": ["Adrien Brody", "Tilda Swinton", "Timoth\u00e9e Chalamet", "Owen Wilson", "Christoph Waltz", "Rupert Friend", "Liev Schreiber", "Willem Dafoe", "Edward Norton", "Saoirse Ronan", "Fisher Stevens", "Samuel Blenkin"]}
+{"title": "Reminiscence", "budget": 68000000, "revenue": 18717947, "actors": ["Hugh Jackman", "Rebecca Ferguson", "Nico Parker"]}
+{"title": "King Richard", "budget": 50000000, "revenue": 39400000, "actors": ["Will Smith", "Jon Bernthal"]}
+{"title": "Nightmare Alley", "budget": 60000000, "revenue": 39629195, "actors": ["Bradley Cooper", "Cate Blanchett", "Willem Dafoe", "Ron Perlman", "Holt McCallany"]}
+{"title": "Mainstream", "budget": 5000000, "revenue": 49638, "actors": ["Andrew Garfield", "Colleen Camp"]}
+{"title": "Malignant", "budget": 40000000, "revenue": 34891791, "actors": ["Annabelle Wallis", "Mckenna Grace", "Madison Wolfe"]}
+{"title": "The Last Duel", "budget": 100000000, "revenue": 30552111, "actors": ["Matt Damon", "Ben Affleck", "Marton Csokas"]}
+{"title": "Last Night in Soho", "budget": 43000000, "revenue": 22957625, "actors": ["Anya Taylor-Joy", "Terence Stamp", "Jacqui-Lee Pryce", "Sam Claflin"]}
+{"title": "Copshop", "budget": 43500000, "revenue": 6807158, "actors": ["Gerard Butler", "Frank Grillo"]}
+{"title": "Army of the Dead", "budget": 90000000, "revenue": 190700000, "actors": ["Dave Bautista", "Ella Purnell"]}
+{"title": "The Batman", "budget": 185000000, "revenue": 772319315, "actors": ["Robert Pattinson", "Colin Farrell", "Paul Dano", "Andy Serkis"]}
+{"title": "Avatar: The Way of Water", "budget": 350000000, "revenue": 2320250281, "actors": ["Sam Worthington", "Zoe Salda\u00f1a", "Sigourney Weaver", "Stephen Lang", "Kate Winslet", "Giovanni Ribisi"]}
+{"title": "Top Gun: Maverick", "budget": 170000000, "revenue": 1488732821, "actors": ["Tom Cruise", "Jennifer Connelly", "Jon Hamm", "Lewis Pullman", "Glen Powell", "Ed Harris"]}
+{"title": "Jurassic World Dominion", "budget": 583900000, "revenue": 1004004592, "actors": ["Chris Pratt", "Bryce Dallas Howard", "Sam Neill", "Jeff Goldblum", "Dichen Lachman"]}
+{"title": "Bullet Train", "budget": 90000000, "revenue": 239300000, "actors": ["Brad Pitt", "Joey King", "Aaron Taylor-Johnson", "Sandra Bullock", "Logan Lerman", "Zazie Beetz"]}
+{"title": "Doctor Strange in the Multiverse of Madness", "budget": 290000000, "revenue": 955775804, "actors": ["Benedict Cumberbatch", "Elizabeth Olsen", "Benedict Wong", "Rachel McAdams", "Hayley Atwell", "John Krasinski", "Charlize Theron"]}
+{"title": "Sonic the Hedgehog 2", "budget": 110000000, "revenue": 405421518, "actors": ["James Marsden", "Idris Elba", "Jim Carrey"]}
+{"title": "Black Panther: Wakanda Forever", "budget": 250000000, "revenue": 859102154, "actors": ["Martin Freeman", "Julia Louis-Dreyfus", "Michael B. Jordan"]}
+{"title": "Babylon", "budget": 78000000, "revenue": 65267446, "actors": ["Margot Robbie", "Brad Pitt", "Eric Roberts", "Samara Weaving", "Tobey Maguire"]}
+{"title": "Terrifier 2", "budget": 250000, "revenue": 15741780, "actors": ["Catherine Corcoran"]}
+{"title": "Thor: Love and Thunder", "budget": 250000000, "revenue": 760900000, "actors": ["Chris Hemsworth", "Natalie Portman", "Christian Bale", "Russell Crowe", "Jaimie Alexander", "Idris Elba", "Chris Pratt", "Dave Bautista", "Karen Gillan", "Pom Klementieff", "Vin Diesel", "Kat Dennings", "Stellan Skarsg\u00e5rd", "Matt Damon", "Sam Neill", "Brooke Satchwell"]}
+{"title": "Black Adam", "budget": 200000000, "revenue": 393452111, "actors": ["Dwayne Johnson", "Noah Centineo", "Sarah Shahi", "Pierce Brosnan", "Jennifer Holland"]}
+{"title": "Fantastic Beasts: The Secrets of Dumbledore", "budget": 200000000, "revenue": 407200000, "actors": ["Eddie Redmayne", "Jude Law", "Mads Mikkelsen", "Callum Turner"]}
+{"title": "Fall", "budget": 3000000, "revenue": 17363261, "actors": ["Jeffrey Dean Morgan"]}
+{"title": "Scream", "budget": 24000000, "revenue": 137743924, "actors": ["Jenna Ortega", "Jack Quaid", "Mikey Madison"]}
+{"title": "Everything Everywhere All at Once", "budget": 25000000, "revenue": 139200000, "actors": ["Michelle Yeoh", "Jamie Lee Curtis"]}
+{"title": "Barbarian", "budget": 4500000, "revenue": 45400000, "actors": ["Bill Skarsg\u00e5rd"]}
+{"title": "Uncharted", "budget": 120000000, "revenue": 407141258, "actors": ["Tom Holland", "Mark Wahlberg", "Tati Gabrielle", "Antonio Banderas"]}
+{"title": "X", "budget": 1000000, "revenue": 15113105, "actors": ["Mia Goth", "Jenna Ortega", "Brittany Snow"]}
+{"title": "The Northman", "budget": 70000000, "revenue": 69633110, "actors": ["Alexander Skarsg\u00e5rd", "Nicole Kidman", "Ethan Hawke", "Anya Taylor-Joy", "Willem Dafoe"]}
+{"title": "The Menu", "budget": 35000000, "revenue": 79628200, "actors": ["Anya Taylor-Joy", "Ralph Fiennes", "Nicholas Hoult"]}
+{"title": "The Gray Man", "budget": 200000000, "revenue": 454023, "actors": ["Ryan Gosling", "Chris Evans", "Ana de Armas", "Billy Bob Thornton", "Wagner Moura", "Julia Butters", "Shea Whigham"]}
+{"title": "Memory", "budget": 30000000, "revenue": 13900000, "actors": ["Liam Neeson", "Guy Pearce", "Monica Bellucci", "Ray Stevenson"]}
+{"title": "Glass Onion: A Knives Out Mystery", "budget": 40000000, "revenue": 15000000, "actors": ["Daniel Craig", "Edward Norton", "Kate Hudson", "Dave Bautista", "Madelyn Cline", "Ethan Hawke", "Joseph Gordon-Levitt"]}
+{"title": "The Roundup", "budget": 7600000, "revenue": 101166707, "actors": ["Don Lee"]}
+{"title": "Redeeming Love", "budget": 30000000, "revenue": 9464198, "actors": ["Eric Dane", "Famke Janssen", "Nina Dobrev"]}
+{"title": "A Man Called Otto", "budget": 50000000, "revenue": 108961677, "actors": ["Tom Hanks", "Truman Hanks"]}
+{"title": "The Whale", "budget": 3000000, "revenue": 55101305, "actors": ["Sadie Sink"]}
+{"title": "The Black Phone", "budget": 16000000, "revenue": 161440742, "actors": ["Mason Thames", "Ethan Hawke", "Ryan Cronan", "Chris TC Edge"]}
+{"title": "Morbius", "budget": 75000000, "revenue": 167635712, "actors": ["Adria Arjona", "Jared Harris", "Michael Keaton"]}
+{"title": "Don't Worry Darling", "budget": 35000000, "revenue": 86700000, "actors": ["Florence Pugh", "Chris Pine", "Sydney Chandler"]}
+{"title": "Blacklight", "budget": 43000000, "revenue": 15902207, "actors": ["Liam Neeson"]}
+{"title": "Death on the Nile", "budget": 90000000, "revenue": 137307235, "actors": ["Kenneth Branagh", "Gal Gadot", "Rose Leslie"]}
+{"title": "Pearl", "budget": 1000000, "revenue": 10139416, "actors": ["Mia Goth", "David Corenswet"]}
+{"title": "RRR", "budget": 69000000, "revenue": 160000000, "actors": ["Ray Stevenson"]}
+{"title": "Halloween Ends", "budget": 33000000, "revenue": 104374176, "actors": ["Jamie Lee Curtis", "Will Patton", "Diana Prince"]}
+{"title": "The Lost City", "budget": 74000000, "revenue": 192907684, "actors": ["Sandra Bullock", "Channing Tatum", "Daniel Radcliffe", "Brad Pitt", "Stephen Lang"]}
+{"title": "Nope", "budget": 68000000, "revenue": 170823080, "actors": ["Keke Palmer", "Barbie Ferreira"]}
+{"title": "Moonfall", "budget": 146000000, "revenue": 67319703, "actors": ["Halle Berry", "Patrick Wilson", "Donald Sutherland"]}
+{"title": "Ambulance", "budget": 40000000, "revenue": 52303589, "actors": ["Jake Gyllenhaal", "Eiza Gonz\u00e1lez"]}
+{"title": "Where the Crawdads Sing", "budget": 24000000, "revenue": 144353965, "actors": ["Harris Dickinson"]}
+{"title": "Fast X", "budget": 340000000, "revenue": 704709660, "actors": ["Vin Diesel", "John Cena", "Nathalie Emmanuel", "Jason Momoa", "Alan Ritchson", "Helen Mirren", "Jason Statham", "Charlize Theron"]}
+{"title": "Mission: Impossible - Dead Reckoning Part One", "budget": 291000000, "revenue": 571125435, "actors": ["Tom Cruise", "Hayley Atwell", "Ving Rhames", "Simon Pegg", "Rebecca Ferguson", "Vanessa Kirby", "Pom Klementieff", "Shea Whigham"]}
+{"title": "The Nun II", "budget": 38500000, "revenue": 269670590, "actors": ["Taissa Farmiga", "Ga\u00ebl Ra\u00ebs", "Patrick Wilson", "Vera Farmiga"]}
+{"title": "John Wick: Chapter 4", "budget": 100000000, "revenue": 440157245, "actors": ["Keanu Reeves", "Donnie Yen", "Bill Skarsg\u00e5rd", "Ian McShane", "Laurence Fishburne", "Clancy Brown", "Scott Adkins"]}
+{"title": "Transformers: Rise of the Beasts", "budget": 195000000, "revenue": 441381193, "actors": ["Anthony Ramos", "Ron Perlman", "Peter Dinklage", "Michelle Yeoh", "Pete Davidson"]}
+{"title": "Oppenheimer", "budget": 100000000, "revenue": 952000000, "actors": ["Cillian Murphy", "Emily Blunt", "Matt Damon", "Robert Downey Jr.", "Florence Pugh", "Josh Hartnett", "Rami Malek", "Kenneth Branagh", "David Dastmalchian", "Jack Quaid", "Gustaf Skarsg\u00e5rd", "Devon Bostick", "James Remar", "Gary Oldman"]}
+{"title": "Barbie", "budget": 145000000, "revenue": 1445638421, "actors": ["Margot Robbie", "Ryan Gosling", "Ariana Greenblatt", "John Cena", "Helen Mirren"]}
+{"title": "Meg 2: The Trench", "budget": 129000000, "revenue": 384056482, "actors": ["Jason Statham", "Shuya Sophia Cai"]}
+{"title": "Aquaman and the Lost Kingdom", "budget": 205000000, "revenue": 440181226, "actors": ["Jason Momoa", "Patrick Wilson", "Amber Heard", "Nicole Kidman", "Dolph Lundgren", "Grant Huggair"]}
+{"title": "Guardians of the Galaxy Vol. 3", "budget": 250000000, "revenue": 845550000, "actors": ["Chris Pratt", "Zoe Salda\u00f1a", "Dave Bautista", "Karen Gillan", "Pom Klementieff", "Vin Diesel", "Bradley Cooper", "Will Poulter", "Sylvester Stallone", "Linda Cardellini", "Judy Greer", "Jennifer Holland", "Nathan Fillion", "Michael Rooker", "Pete Davidson"]}
+{"title": "The Little Mermaid", "budget": 297000000, "revenue": 569626289, "actors": ["Jonah Hauer-King", "Javier Bardem", "Jacob Tremblay", "Leon Cooke"]}
+{"title": "The Equalizer 3", "budget": 70000000, "revenue": 191067560, "actors": ["Denzel Washington", "Dakota Fanning"]}
+{"title": "Creation of the Gods I: Kingdom of Storms", "budget": 85000000, "revenue": 369081777, "actors": ["Ci Sha"]}
+{"title": "Shazam! Fury of the Gods", "budget": 110000000, "revenue": 134221819, "actors": ["Adam Brody", "Lucy Liu", "Helen Mirren"]}
+{"title": "The Hunger Games: The Ballad of Songbirds & Snakes", "budget": 100000000, "revenue": 337371917, "actors": ["Peter Dinklage"]}
+{"title": "Gran Turismo", "budget": 60000000, "revenue": 121700000, "actors": ["Orlando Bloom"]}
+{"title": "Five Nights at Freddy's", "budget": 20000000, "revenue": 297144130, "actors": ["Josh Hutcherson", "Elizabeth Lail", "Matthew Lillard"]}
+{"title": "Anyone But You", "budget": 25000000, "revenue": 214891370, "actors": ["Sydney Sweeney", "Glen Powell", "Dermot Mulroney"]}
+{"title": "The Flash", "budget": 220000000, "revenue": 271333313, "actors": ["Michael Keaton", "Jeremy Irons", "Nikolaj Coster-Waldau"]}
+{"title": "Poor Things", "budget": 35000000, "revenue": 117607117, "actors": ["Emma Stone", "Mark Ruffalo", "Willem Dafoe", "Margaret Qualley"]}
+{"title": "Killers of the Flower Moon", "budget": 200000000, "revenue": 158722599, "actors": ["Leonardo DiCaprio", "Robert De Niro", "Jesse Plemons", "John Lithgow", "Jo Harvey Allen"]}
+{"title": "Dungeons & Dragons: Honor Among Thieves", "budget": 151000000, "revenue": 208200000, "actors": ["Chris Pine", "Jude Hill"]}
+{"title": "The Marvels", "budget": 274800000, "revenue": 206136825, "actors": ["Samuel L. Jackson", "Lashana Lynch", "Hailee Steinfeld"]}
+{"title": "Wonka", "budget": 125000000, "revenue": 634502312, "actors": ["Timoth\u00e9e Chalamet", "Olivia Colman", "Charlotte Ritchie"]}
+{"title": "The Creator", "budget": 80000000, "revenue": 104272136, "actors": ["Allison Janney", "Ken Watanabe"]}
+{"title": "Godzilla Minus One", "budget": 15000000, "revenue": 113676322, "actors": ["Minami Hamabe"]}
+{"title": "Expend4bles", "budget": 100000000, "revenue": 37917985, "actors": ["Jason Statham", "Megan Fox", "Dolph Lundgren", "Tony Jaa", "Andy Garc\u00eda", "Sylvester Stallone"]}
+{"title": "Ant-Man and the Wasp: Quantumania", "budget": 200000000, "revenue": 476071180, "actors": ["Paul Rudd", "Evangeline Lilly", "Michael Douglas", "Michelle Pfeiffer", "Kathryn Newton", "Katy O'Brian", "David Dastmalchian", "Leon Cooke"]}
+{"title": "Blue Beetle", "budget": 104000000, "revenue": 130788072, "actors": ["Susan Sarandon"]}
+{"title": "Napoleon", "budget": 165000000, "revenue": 220597098, "actors": ["Vanessa Kirby"]}
+{"title": "Strange Darling", "budget": 4000000, "revenue": 4853595, "actors": ["Willa Fitzgerald", "Giovanni Ribisi"]}
+{"title": "Guy Ritchie's The Covenant", "budget": 55000000, "revenue": 21948551, "actors": ["Jake Gyllenhaal", "Dar Salim"]}
+{"title": "Creed III", "budget": 75000000, "revenue": 275300000, "actors": ["Michael B. Jordan", "Kimberly Dawn Davis"]}
+{"title": "Saltburn", "budget": 20000000, "revenue": 21013738, "actors": ["Jacob Elordi", "Rosamund Pike"]}
+{"title": "Indiana Jones and the Dial of Destiny", "budget": 294700000, "revenue": 383963057, "actors": ["Harrison Ford", "Mads Mikkelsen", "Antonio Banderas", "Karen Allen"]}
+{"title": "Air", "budget": 80000000, "revenue": 90100000, "actors": ["Matt Damon", "Ben Affleck", "Jason Bateman", "Gustaf Skarsg\u00e5rd", "Marlon Wayans"]}
+{"title": "Scream VI", "budget": 35000000, "revenue": 168961389, "actors": ["Jenna Ortega", "Dermot Mulroney", "Hayden Panettiere", "Samara Weaving"]}
+{"title": "Insidious: The Red Door", "budget": 16000000, "revenue": 189086877, "actors": ["Patrick Wilson", "Rose Byrne"]}
+{"title": "Freelance", "budget": 40000000, "revenue": 9112817, "actors": ["John Cena", "Alison Brie", "Christian Slater", "Alice Eve", "Marton Csokas"]}
+{"title": "No Hard Feelings", "budget": 45000000, "revenue": 83000000, "actors": ["Jennifer Lawrence"]}
+{"title": "Operation Fortune: Ruse de Guerre", "budget": 50000000, "revenue": 48983306, "actors": ["Jason Statham", "Aubrey Plaza", "Josh Hartnett"]}
+{"title": "The Pope's Exorcist", "budget": 18000000, "revenue": 76987621, "actors": ["Russell Crowe", "Carrie Munro"]}
+{"title": "Asteroid City", "budget": 25000000, "revenue": 47281670, "actors": ["Scarlett Johansson", "Tom Hanks", "Tilda Swinton", "Bryan Cranston", "Edward Norton", "Adrien Brody", "Liev Schreiber", "Rupert Friend", "Steve Carell", "Willem Dafoe", "Jeff Goldblum", "Margot Robbie", "Truman Hanks"]}
+{"title": "Perfect Days", "budget": 14000000, "revenue": 24094016, "actors": ["Arisa Nakano"]}
+{"title": "The Killer", "budget": 175000000, "revenue": 362113, "actors": ["Michael Fassbender", "Tilda Swinton"]}
+{"title": "A Haunting in Venice", "budget": 60000000, "revenue": 121400000, "actors": ["Kenneth Branagh", "Jude Hill", "Kelly Reilly", "Michelle Yeoh"]}
+{"title": "Plane", "budget": 25000000, "revenue": 74515586, "actors": ["Gerard Butler"]}
+{"title": "Retribution", "budget": 20000000, "revenue": 18685751, "actors": ["Liam Neeson"]}
+{"title": "Deadpool & Wolverine", "budget": 200000000, "revenue": 1338073645, "actors": ["Ryan Reynolds", "Hugh Jackman", "Dafne Keen", "Jon Favreau", "Morena Baccarin", "Wesley Snipes", "Channing Tatum", "Chris Evans", "Henry Cavill", "Blake Lively", "Nathan Fillion", "Matthew McConaughey"]}
+{"title": "Sonic the Hedgehog 3", "budget": 122000000, "revenue": 492162604, "actors": ["Jim Carrey", "Keanu Reeves", "Idris Elba", "James Marsden", "Krysten Ritter"]}
+{"title": "Venom: The Last Dance", "budget": 120000000, "revenue": 478937618, "actors": ["Tom Hardy", "Juno Temple", "Andy Serkis"]}
+{"title": "The Substance", "budget": 17500000, "revenue": 76506196, "actors": ["Demi Moore", "Margaret Qualley", "Dennis Quaid"]}
+{"title": "Alien: Romulus", "budget": 80000000, "revenue": 350865342, "actors": ["Isabela Merced"]}
+{"title": "Gladiator II", "budget": 310000000, "revenue": 462180717, "actors": ["Denzel Washington", "Pedro Pascal", "Connie Nielsen", "Joseph Quinn"]}
+{"title": "Kraven the Hunter", "budget": 130000000, "revenue": 62076533, "actors": ["Aaron Taylor-Johnson", "Russell Crowe"]}
+{"title": "Anora", "budget": 6000000, "revenue": 56286295, "actors": ["Mikey Madison"]}
+{"title": "Babygirl", "budget": 20000000, "revenue": 60934894, "actors": ["Nicole Kidman", "Harris Dickinson", "Antonio Banderas"]}
+{"title": "Dune: Part Two", "budget": 190000000, "revenue": 714444358, "actors": ["Timoth\u00e9e Chalamet", "Zendaya", "Rebecca Ferguson", "Javier Bardem", "Josh Brolin", "Austin Butler", "Florence Pugh", "Dave Bautista", "Christopher Walken", "Stellan Skarsg\u00e5rd", "Charlotte Rampling"]}
+{"title": "Bad Boys: Ride or Die", "budget": 100000000, "revenue": 404547819, "actors": ["Will Smith", "Martin Lawrence", "Alexander Ludwig", "Eric Dane"]}
+{"title": "Red One", "budget": 250000000, "revenue": 185700759, "actors": ["Dwayne Johnson", "Chris Evans", "Lucy Liu", "J.K. Simmons", "Kiernan Shipka"]}
+{"title": "Godzilla x Kong: The New Empire", "budget": 150000000, "revenue": 571750016, "actors": ["Dan Stevens"]}
+{"title": "The Beekeeper", "budget": 35000000, "revenue": 152720535, "actors": ["Jason Statham", "Josh Hutcherson", "Jeremy Irons"]}
+{"title": "Kingdom of the Planet of the Apes", "budget": 160000000, "revenue": 397378150, "actors": ["Kevin Durand", "Dichen Lachman"]}
+{"title": "Nosferatu", "budget": 50000000, "revenue": 181764515, "actors": ["Nicholas Hoult", "Bill Skarsg\u00e5rd", "Aaron Taylor-Johnson", "Willem Dafoe", "Ralph Ineson"]}
+{"title": "IF", "budget": 110000000, "revenue": 190309707, "actors": ["Ryan Reynolds", "John Krasinski", "Steve Carell", "Emily Blunt", "Matt Damon", "Blake Lively", "Sam Rockwell"]}
+{"title": "Wicked", "budget": 150000000, "revenue": 756085570, "actors": ["Michelle Yeoh", "Jeff Goldblum", "Peter Dinklage"]}
+{"title": "Furiosa: A Mad Max Saga", "budget": 168000000, "revenue": 174287546, "actors": ["Anya Taylor-Joy", "Chris Hemsworth"]}
+{"title": "The Ministry of Ungentlemanly Warfare", "budget": 60000000, "revenue": 29768915, "actors": ["Henry Cavill", "Eiza Gonz\u00e1lez", "Alan Ritchson", "Freddie Fox"]}
+{"title": "The Courier", "budget": 5400000, "revenue": 1751343, "actors": ["Laura S\u00e9pul"]}
+{"title": "Heretic", "budget": 10000000, "revenue": 51913394, "actors": ["Sophie Thatcher", "Topher Grace"]}
+{"title": "The Crow", "budget": 50000000, "revenue": 24109036, "actors": ["Bill Skarsg\u00e5rd", "Danny Huston"]}
+{"title": "Elevation", "budget": 18000000, "revenue": 3300000, "actors": ["Anthony Mackie", "Morena Baccarin"]}
+{"title": "Civil War", "budget": 50000000, "revenue": 126542249, "actors": ["Wagner Moura"]}
+{"title": "Challengers", "budget": 55000000, "revenue": 94182533, "actors": ["Zendaya"]}
+{"title": "Panda Plan", "budget": 25000000, "revenue": 42238170, "actors": ["Jackie Chan"]}
+{"title": "Beetlejuice Beetlejuice", "budget": 99000000, "revenue": 451900435, "actors": ["Michael Keaton", "Winona Ryder", "Jenna Ortega", "Willem Dafoe", "Monica Bellucci", "Danny DeVito"]}
+{"title": "The Fall Guy", "budget": 125000000, "revenue": 181073291, "actors": ["Ryan Gosling", "Emily Blunt", "Aaron Taylor-Johnson", "Hannah Waddingham"]}
+{"title": "Azrael", "budget": 12000000, "revenue": 631272, "actors": ["Samara Weaving", "Meelis R\u00e4mmeld"]}
+{"title": "A Quiet Place: Day One", "budget": 67000000, "revenue": 261907653, "actors": ["Joseph Quinn"]}
+{"title": "Blink Twice", "budget": 20000000, "revenue": 46393906, "actors": ["Naomi Ackie", "Channing Tatum", "Christian Slater", "Adria Arjona", "Haley Joel Osment"]}
+{"title": "The Prosecutor", "budget": 38500000, "revenue": 128093757, "actors": ["Donnie Yen"]}
+{"title": "Abigail", "budget": 28000000, "revenue": 43015969, "actors": ["Dan Stevens", "Kathryn Newton", "Kevin Durand", "Matthew Goode"]}
+{"title": "Madame Web", "budget": 80000000, "revenue": 100498764, "actors": ["Dakota Johnson", "Sydney Sweeney", "Isabela Merced", "Emma Roberts"]}
+{"title": "Immaculate", "budget": 9000000, "revenue": 35340015, "actors": ["Sydney Sweeney"]}
+{"title": "The Brutalist", "budget": 9600000, "revenue": 50145227, "actors": ["Adrien Brody", "Felicity Jones", "Guy Pearce"]}
+{"title": "Conclave", "budget": 20000000, "revenue": 115657988, "actors": ["Ralph Fiennes", "Stanley Tucci", "John Lithgow"]}
+{"title": "Longlegs", "budget": 10000000, "revenue": 127961936, "actors": ["Nicolas Cage", "Kiernan Shipka"]}
+{"title": "Twisters", "budget": 155000000, "revenue": 372262265, "actors": ["Glen Powell", "Anthony Ramos", "Kiernan Shipka", "David Corenswet", "Katy O'Brian"]}
+{"title": "Joker: Folie \u00e0 Deux", "budget": 190000000, "revenue": 207500287, "actors": ["Brendan Gleeson", "Zazie Beetz"]}
+{"title": "Subservience", "budget": 4400000, "revenue": 262793, "actors": ["Megan Fox", "Michele Morrone"]}
+{"title": "Borderlands", "budget": 115000000, "revenue": 33017367, "actors": ["Cate Blanchett", "Kevin Hart", "Jamie Lee Curtis", "Ariana Greenblatt", "Jack Black", "Gina Gershon", "Haley Bennett"]}
+{"title": "Paddington in Peru", "budget": 90000000, "revenue": 170116764, "actors": ["Antonio Banderas", "Olivia Colman", "Hayley Atwell"]}
+{"title": "My Old Ass", "budget": 3000000, "revenue": 5705895, "actors": ["Aubrey Plaza"]}
+{"title": "The Order", "budget": 20000000, "revenue": 1970445, "actors": ["Jude Law", "Nicholas Hoult"]}
+{"title": "Damsel", "budget": 60000000, "revenue": 5000, "actors": ["Millie Bobby Brown", "Robin Wright"]}
+{"title": "Ghostbusters: Frozen Empire", "budget": 100000000, "revenue": 201967521, "actors": ["Mckenna Grace", "Paul Rudd", "Carrie Coon"]}
+{"title": "The Watchers", "budget": 30000000, "revenue": 51147812, "actors": ["Dakota Fanning"]}
+{"title": "Miller's Girl", "budget": 4000000, "revenue": 1430985, "actors": ["Jenna Ortega", "Martin Freeman"]}
